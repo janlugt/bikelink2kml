@@ -46,8 +46,8 @@ filedata = filedata.replace('\u0026', '&')
 with open('bikelink_child.kml', 'w') as file:
   file.write(filedata)
 
-kml2 = simplekml.Kml()
-netlink = kml2.newnetworklink(name="Network Link")
+kml_parent = simplekml.Kml()
+netlink = kml_parent.newnetworklink(name="Network Link")
 netlink.link.href = "https://raw.githubusercontent.com/janlugt/bikelink2kml/master/bikelink_child.kml"
 netlink.link.viewrefreshmode = simplekml.ViewRefreshMode.onrequest
-kml.save("bikelink_parent.kml")
+kml_parent.save("bikelink_parent.kml")
