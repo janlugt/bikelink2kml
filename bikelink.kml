@@ -21,6 +21,7 @@
                 </Icon>
             </IconStyle>
         </Style>
+        <name>BikeLink locations</name>
         <Placemark id="feat_2">
             <name>
 <![CDATA[Trimet: E 122nd]]>            </name>

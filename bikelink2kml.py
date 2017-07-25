@@ -22,8 +22,7 @@ elocker_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/lockers-c9d
 group_style = simplekml.Style()
 group_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/group-5637fbe44207d3fe6b92d82bc39a24bc.png'
 
-kml = simplekml.Kml()
-# TODO: add map description
+kml = simplekml.Kml(name = 'BikeLink locations')
 
 for loc in locations:
   # Ignore vendor locations
