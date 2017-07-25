@@ -37,17 +37,11 @@ for loc in locations:
   elif loc_type == 'Group Parking':
     pnt.style = group_style
 
-kml.save('bikelink_child.kml')
+kml.save('bikelink.kml')
 
 # Super hacky, because simplekml seems unable to export ampersands
-with open('bikelink_child.kml', 'r') as file:
+with open('bikelink.kml', 'r') as file:
   filedata = file.read()
 filedata = filedata.replace('\u0026', '&')
-with open('bikelink_child.kml', 'w') as file:
+with open('bikelink.kml', 'w') as file:
   file.write(filedata)
-
-kml_parent = simplekml.Kml()
-netlink = kml_parent.newnetworklink(name="Network Link")
-netlink.link.href = "https://raw.githubusercontent.com/janlugt/bikelink2kml/master/bikelink_child.kml"
-netlink.link.viewrefreshmode = simplekml.ViewRefreshMode.onrequest
-kml_parent.save("bikelink_parent.kml")
