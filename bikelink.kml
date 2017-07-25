@@ -24,7 +24,8 @@
         <Placemark id="feat_2">
             <name>
 <![CDATA[Trimet: E 122nd]]>            </name>
-            <address>12202 E Burnside, OR 97216</address>
+            <address>
+<![CDATA[12202 E Burnside, OR 97216]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_0">
                 <coordinates>-122.5377842,45.5223924,0.0</coordinates>
@@ -33,7 +34,8 @@
         <Placemark id="feat_3">
             <name>
 <![CDATA[BART: Coliseum/Oakland Airport ]]>            </name>
-            <address>7200 San Leandro Street, CA 94621</address>
+            <address>
+<![CDATA[7200 San Leandro Street, CA 94621]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_1">
                 <coordinates>-122.196207047,37.7537533069,0.0</coordinates>
@@ -42,7 +44,8 @@
         <Placemark id="feat_4">
             <name>
 <![CDATA[BikeLink Vancouver: Clark Co. Pub. Service Ctr.]]>            </name>
-            <address>1300 Franklin St. , WA 98660</address>
+            <address>
+<![CDATA[1300 Franklin St. , WA 98660]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_2">
                 <coordinates>-122.677588,45.631384,0.0</coordinates>
@@ -51,7 +54,8 @@
         <Placemark id="feat_5">
             <name>
 <![CDATA[San Jose: Dr. Roberto Cruz Library]]>            </name>
-            <address>3090 Alum Rock Ave, CA 95127</address>
+            <address>
+<![CDATA[3090 Alum Rock Ave, CA 95127]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_3">
                 <coordinates>-121.8281314,37.3653,0.0</coordinates>
@@ -60,7 +64,8 @@
         <Placemark id="feat_6">
             <name>
 <![CDATA[BART: Balboa Park]]>            </name>
-            <address>401 Geneva Ave, CA 94112</address>
+            <address>
+<![CDATA[401 Geneva Ave, CA 94112]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_4">
                 <coordinates>-122.447565,37.722119,0.0</coordinates>
@@ -69,7 +74,8 @@
         <Placemark id="feat_7">
             <name>
 <![CDATA[SANDAG: Morena/Linda Vista]]>            </name>
-            <address>Napa Street & Gaines Street, CA 92110</address>
+            <address>
+<![CDATA[Napa Street & Gaines Street, CA 92110]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_5">
                 <coordinates>-117.195473,32.764118,0.0</coordinates>
@@ -78,7 +84,8 @@
         <Placemark id="feat_8">
             <name>
 <![CDATA[SANDAG: Barrio Logan]]>            </name>
-            <address>1910 E Harbor Drive, CA 92113</address>
+            <address>
+<![CDATA[1910 E Harbor Drive, CA 92113]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_6">
                 <coordinates>-117.1390598,32.6924581,0.0</coordinates>
@@ -87,7 +94,8 @@
         <Placemark id="feat_9">
             <name>
 <![CDATA[Alameda Landing: Sprint]]>            </name>
-            <address>2610 Fifth Street, CA 94501</address>
+            <address>
+<![CDATA[2610 Fifth Street, CA 94501]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_7">
                 <coordinates>-122.279824,37.787237,0.0</coordinates>
@@ -96,7 +104,8 @@
         <Placemark id="feat_10">
             <name>
 <![CDATA[SANDAG: Sorrento Valley Station]]>            </name>
-            <address>11170 Sorrento Valley Road, CA 92121</address>
+            <address>
+<![CDATA[11170 Sorrento Valley Road, CA 92121]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_8">
                 <coordinates>-117.226363,32.904465,0.0</coordinates>
@@ -105,7 +114,8 @@
         <Placemark id="feat_11">
             <name>
 <![CDATA[Davis: Amtrak Station]]>            </name>
-            <address>840 Second Street, CA 95616</address>
+            <address>
+<![CDATA[840 Second Street, CA 95616]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_9">
                 <coordinates>-121.737474,38.54345,0.0</coordinates>
@@ -114,7 +124,8 @@
         <Placemark id="feat_12">
             <name>
 <![CDATA[San Jose: Roosevelt Comm. Center Library]]>            </name>
-            <address>901 E Santa Clara St, CA 95116</address>
+            <address>
+<![CDATA[901 E Santa Clara St, CA 95116]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_10">
                 <coordinates>-121.871858,37.345473,0.0</coordinates>
@@ -123,7 +134,8 @@
         <Placemark id="feat_13">
             <name>
 <![CDATA[SANDAG: Pacific Fleet]]>            </name>
-            <address>1800 South 32nd St, CA 92136</address>
+            <address>
+<![CDATA[1800 South 32nd St, CA 92136]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_11">
                 <coordinates>-117.125146,32.686374,0.0</coordinates>
@@ -132,7 +144,8 @@
         <Placemark id="feat_14">
             <name>
 <![CDATA[VTA: Bayshore/ NASA LTR Station]]>            </name>
-            <address>Manila and Ellis , CA </address>
+            <address>
+<![CDATA[Manila and Ellis , CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_12">
                 <coordinates>-122.049872,37.404528,0.0</coordinates>
@@ -141,8 +154,9 @@
         <Placemark id="feat_15">
             <name>
 <![CDATA[MCT: Glen Carbon Park and Ride]]>            </name>
-            <address>3717 S. State Route 157
-, IL 62034</address>
+            <address>
+<![CDATA[3717 S. State Route 157
+, IL 62034]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_13">
                 <coordinates>-90.00337,38.741931,0.0</coordinates>
@@ -151,7 +165,8 @@
         <Placemark id="feat_16">
             <name>
 <![CDATA[GC: Costa Verde Village North]]>            </name>
-            <address>Regents Rd south of La Jolla Village Drive , CA 92122</address>
+            <address>
+<![CDATA[Regents Rd south of La Jolla Village Drive , CA 92122]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_14">
                 <coordinates>-117.217759,32.870534,0.0</coordinates>
@@ -160,9 +175,10 @@
         <Placemark id="feat_17">
             <name>
 <![CDATA[UCSC: Engineering 2]]>            </name>
-            <address>Engineering 2
+            <address>
+<![CDATA[Engineering 2
 Baskin Circle
-UCSC, CA </address>
+UCSC, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_15">
                 <coordinates>-122.062064,37.000785,0.0</coordinates>
@@ -171,7 +187,8 @@ UCSC, CA </address>
         <Placemark id="feat_18">
             <name>
 <![CDATA[Trimet: Quatama]]>            </name>
-            <address>Quatama Rd and SW 205th Ave, OR 97006</address>
+            <address>
+<![CDATA[Quatama Rd and SW 205th Ave, OR 97006]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_16">
                 <coordinates>-122.8880362,45.5219422,0.0</coordinates>
@@ -180,7 +197,8 @@ UCSC, CA </address>
         <Placemark id="feat_19">
             <name>
 <![CDATA[SANDAG: Del Lago BRT Station]]>            </name>
-            <address>Plaza Del Lago BRT Station , CA 92029</address>
+            <address>
+<![CDATA[Plaza Del Lago BRT Station , CA 92029]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_17">
                 <coordinates>-117.0705151,33.0715957,0.0</coordinates>
@@ -189,8 +207,9 @@ UCSC, CA </address>
         <Placemark id="feat_20">
             <name>
 <![CDATA[BART: North Concord/Martinez]]>            </name>
-            <address>3700 Port Chicago Hwy
-, CA 94520</address>
+            <address>
+<![CDATA[3700 Port Chicago Hwy
+, CA 94520]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_18">
                 <coordinates>-122.024524212,38.0028670936,0.0</coordinates>
@@ -199,7 +218,8 @@ UCSC, CA </address>
         <Placemark id="feat_21">
             <name>
 <![CDATA[Fremont: Mission San Jose School Park]]>            </name>
-            <address>41400 Mission Blvd., CA 94539</address>
+            <address>
+<![CDATA[41400 Mission Blvd., CA 94539]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_19">
                 <coordinates>-121.935966,37.547348,0.0</coordinates>
@@ -208,7 +228,8 @@ UCSC, CA </address>
         <Placemark id="feat_22">
             <name>
 <![CDATA[VTA: Tamien Station]]>            </name>
-            <address>Alma Street & Lelong Avenue, CA </address>
+            <address>
+<![CDATA[Alma Street & Lelong Avenue, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_20">
                 <coordinates>-121.883961,37.312094,0.0</coordinates>
@@ -217,7 +238,8 @@ UCSC, CA </address>
         <Placemark id="feat_23">
             <name>
 <![CDATA[MCT: Granite City Transit Station]]>            </name>
-            <address>1823 Edison Avenue, IL 62040</address>
+            <address>
+<![CDATA[1823 Edison Avenue, IL 62040]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_21">
                 <coordinates>-90.151255,38.699948,0.0</coordinates>
@@ -226,7 +248,8 @@ UCSC, CA </address>
         <Placemark id="feat_24">
             <name>
 <![CDATA[King Co: Renton Transit Center]]>            </name>
-            <address>232 Burnett Ave. S, WA 98057</address>
+            <address>
+<![CDATA[232 Burnett Ave. S, WA 98057]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_22">
                 <coordinates>-122.208459,47.480463,0.0</coordinates>
@@ -235,7 +258,8 @@ UCSC, CA </address>
         <Placemark id="feat_25">
             <name>
 <![CDATA[Alameda Landing: Fifth Street]]>            </name>
-            <address>2610 Fifth Street, CA 94501</address>
+            <address>
+<![CDATA[2610 Fifth Street, CA 94501]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_23">
                 <coordinates>-122.281168,37.787801,0.0</coordinates>
@@ -244,7 +268,8 @@ UCSC, CA </address>
         <Placemark id="feat_26">
             <name>
 <![CDATA[UC Berkeley: University Village]]>            </name>
-            <address>1075 Monroe St., CA 94706</address>
+            <address>
+<![CDATA[1075 Monroe St., CA 94706]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_24">
                 <coordinates>-122.2980573,37.8844394,0.0</coordinates>
@@ -253,7 +278,8 @@ UCSC, CA </address>
         <Placemark id="feat_27">
             <name>
 <![CDATA[SMART: Rohnert Park Station]]>            </name>
-            <address>900 Enterprise Road, CA 94928</address>
+            <address>
+<![CDATA[900 Enterprise Road, CA 94928]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_25">
                 <coordinates>-122.6999895,38.345113,0.0</coordinates>
@@ -262,7 +288,8 @@ UCSC, CA </address>
         <Placemark id="feat_28">
             <name>
 <![CDATA[Santa Cruz: NIAC]]>            </name>
-            <address>333 Front St. , CA 95060</address>
+            <address>
+<![CDATA[333 Front St. , CA 95060]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_26">
                 <coordinates>-122.02441,36.970488,0.0</coordinates>
@@ -271,7 +298,8 @@ UCSC, CA </address>
         <Placemark id="feat_29">
             <name>
 <![CDATA[Trimet: Mt Hood Ave]]>            </name>
-            <address>9401 NE Cascades Pkwy, OR 97220</address>
+            <address>
+<![CDATA[9401 NE Cascades Pkwy, OR 97220]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_27">
                 <coordinates>-122.5652208,45.5771062,0.0</coordinates>
@@ -280,7 +308,8 @@ UCSC, CA </address>
         <Placemark id="feat_30">
             <name>
 <![CDATA[UTA: Draper FrontRunner]]>            </name>
-            <address>12997 South FrontRunner Blvd, UT 84020</address>
+            <address>
+<![CDATA[12997 South FrontRunner Blvd, UT 84020]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_28">
                 <coordinates>-111.9050805,40.5156509,0.0</coordinates>
@@ -289,7 +318,8 @@ UCSC, CA </address>
         <Placemark id="feat_31">
             <name>
 <![CDATA[MCT: Alton Multimodal Transportation Center]]>            </name>
-            <address>, None </address>
+            <address>
+<![CDATA[, None ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_29">
                 <coordinates>-90.157865,38.921523,0.0</coordinates>
@@ -298,7 +328,8 @@ UCSC, CA </address>
         <Placemark id="feat_32">
             <name>
 <![CDATA[SRJC: Pioneer Hall]]>            </name>
-            <address>1501 Mendocino Ave, CA </address>
+            <address>
+<![CDATA[1501 Mendocino Ave, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_30">
                 <coordinates>-122.718799,38.456254,0.0</coordinates>
@@ -307,7 +338,8 @@ UCSC, CA </address>
         <Placemark id="feat_33">
             <name>
 <![CDATA[El Cerrito: Plaza BART]]>            </name>
-            <address>6699 Fairmount Avenue., CA 94530</address>
+            <address>
+<![CDATA[6699 Fairmount Avenue., CA 94530]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_31">
                 <coordinates>-122.2986792,37.9019014,0.0</coordinates>
@@ -316,7 +348,8 @@ UCSC, CA </address>
         <Placemark id="feat_34">
             <name>
 <![CDATA[Fremont: Family Resource Center]]>            </name>
-            <address>39155 Liberty St., CA </address>
+            <address>
+<![CDATA[39155 Liberty St., CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_32">
                 <coordinates>-121.983091,37.550797,0.0</coordinates>
@@ -325,7 +358,8 @@ UCSC, CA </address>
         <Placemark id="feat_35">
             <name>
 <![CDATA[BART: Berkeley Bike Station]]>            </name>
-            <address>2208 Shattuck Avenue, CA 94704-1307</address>
+            <address>
+<![CDATA[2208 Shattuck Avenue, CA 94704-1307]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_33">
                 <coordinates>-122.268187,37.869106,0.0</coordinates>
@@ -334,7 +368,8 @@ UCSC, CA </address>
         <Placemark id="feat_36">
             <name>
 <![CDATA[San Jose: Mayfair Comm. Center Library.]]>            </name>
-            <address>2039 Kammerer Ave, CA 95116</address>
+            <address>
+<![CDATA[2039 Kammerer Ave, CA 95116]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_34">
                 <coordinates>-121.84392,37.351411,0.0</coordinates>
@@ -343,7 +378,8 @@ UCSC, CA </address>
         <Placemark id="feat_37">
             <name>
 <![CDATA[BART: Bay Fair ]]>            </name>
-            <address>15242 Hesperian Boulevard, CA 94578</address>
+            <address>
+<![CDATA[15242 Hesperian Boulevard, CA 94578]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_35">
                 <coordinates>-122.126592994,37.6974276438,0.0</coordinates>
@@ -352,7 +388,8 @@ UCSC, CA </address>
         <Placemark id="feat_38">
             <name>
 <![CDATA[Trimet: Washington Street]]>            </name>
-            <address>SE 12th and SE Washington, OR 97123</address>
+            <address>
+<![CDATA[SE 12th and SE Washington, OR 97123]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_36">
                 <coordinates>-122.970076,45.521256,0.0</coordinates>
@@ -361,7 +398,8 @@ UCSC, CA </address>
         <Placemark id="feat_39">
             <name>
 <![CDATA[SANDAG: Old Town Transit Center]]>            </name>
-            <address>4009 Taylor St, CA 92110</address>
+            <address>
+<![CDATA[4009 Taylor St, CA 92110]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_37">
                 <coordinates>-117.20002681,32.7552311679,0.0</coordinates>
@@ -370,7 +408,8 @@ UCSC, CA </address>
         <Placemark id="feat_40">
             <name>
 <![CDATA[Roseville: Taylor/ Sunsplash Park-N-Ride]]>            </name>
-            <address>1853 Taylor Road, CA </address>
+            <address>
+<![CDATA[1853 Taylor Road, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_38">
                 <coordinates>-121.2561878,38.7611289,0.0</coordinates>
@@ -379,7 +418,8 @@ UCSC, CA </address>
         <Placemark id="feat_41">
             <name>
 <![CDATA[San Jose: Seven Trees Library]]>            </name>
-            <address>3590 Cas Dr, CA 95111</address>
+            <address>
+<![CDATA[3590 Cas Dr, CA 95111]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_39">
                 <coordinates>-121.833151,37.285046,0.0</coordinates>
@@ -388,7 +428,8 @@ UCSC, CA </address>
         <Placemark id="feat_42">
             <name>
 <![CDATA[SMART: Santa Rosa Downtown]]>            </name>
-            <address>7 4th St, CA 95401</address>
+            <address>
+<![CDATA[7 4th St, CA 95401]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_40">
                 <coordinates>-122.7215622,38.4370329,0.0</coordinates>
@@ -397,7 +438,8 @@ UCSC, CA </address>
         <Placemark id="feat_43">
             <name>
 <![CDATA[SANDAG: Harborside]]>            </name>
-            <address>1325 South 28th Street, CA </address>
+            <address>
+<![CDATA[1325 South 28th Street, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_41">
                 <coordinates>-117.1336327,32.6924729,0.0</coordinates>
@@ -406,7 +448,8 @@ UCSC, CA </address>
         <Placemark id="feat_44">
             <name>
 <![CDATA[SMART: San Rafael Civic Center]]>            </name>
-            <address>3801 Civic Center Drive, CA 94903</address>
+            <address>
+<![CDATA[3801 Civic Center Drive, CA 94903]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_42">
                 <coordinates>-122.5385657,38.0037976,0.0</coordinates>
@@ -415,7 +458,8 @@ UCSC, CA </address>
         <Placemark id="feat_45">
             <name>
 <![CDATA[Richmond: West Contra Costa F. J. Center]]>            </name>
-            <address>256 24th St, CA 94804</address>
+            <address>
+<![CDATA[256 24th St, CA 94804]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_43">
                 <coordinates>-122.346173,37.934866,0.0</coordinates>
@@ -424,7 +468,8 @@ UCSC, CA </address>
         <Placemark id="feat_46">
             <name>
 <![CDATA[Walnut Creek: City Hall]]>            </name>
-            <address>1666 North Main Street, CA 94596</address>
+            <address>
+<![CDATA[1666 North Main Street, CA 94596]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_44">
                 <coordinates>-122.061209,37.901696,0.0</coordinates>
@@ -433,7 +478,8 @@ UCSC, CA </address>
         <Placemark id="feat_47">
             <name>
 <![CDATA[Cap. Cor.: Hayward train station]]>            </name>
-            <address>22555 Meekland Ave, CA 94545</address>
+            <address>
+<![CDATA[22555 Meekland Ave, CA 94545]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_45">
                 <coordinates>-122.0993206,37.6659488,0.0</coordinates>
@@ -442,7 +488,8 @@ UCSC, CA </address>
         <Placemark id="feat_48">
             <name>
 <![CDATA[Soltrans: Curtola Park and Ride]]>            </name>
-            <address>801 Curtola Pkwy, CA 94591</address>
+            <address>
+<![CDATA[801 Curtola Pkwy, CA 94591]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_46">
                 <coordinates>-122.237892,38.093234,0.0</coordinates>
@@ -451,7 +498,8 @@ UCSC, CA </address>
         <Placemark id="feat_49">
             <name>
 <![CDATA[Sunnyvale: CalTrain Station]]>            </name>
-            <address>121 W. Evelyn Avenue, CA 94086</address>
+            <address>
+<![CDATA[121 W. Evelyn Avenue, CA 94086]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_47">
                 <coordinates>-122.029496,37.377508,0.0</coordinates>
@@ -460,7 +508,8 @@ UCSC, CA </address>
         <Placemark id="feat_50">
             <name>
 <![CDATA[Santa Cruz: Front & Laurel ]]>            </name>
-            <address>Laurel and Front Street., CA </address>
+            <address>
+<![CDATA[Laurel and Front Street., CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_48">
                 <coordinates>-122.0237653,36.9693202,0.0</coordinates>
@@ -469,7 +518,8 @@ UCSC, CA </address>
         <Placemark id="feat_51">
             <name>
 <![CDATA[SMART: Novato San Marin Station	]]>            </name>
-            <address>7700 Redwood Blvd, CA 94945</address>
+            <address>
+<![CDATA[7700 Redwood Blvd, CA 94945]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_49">
                 <coordinates>-122.5664397,38.1198425,0.0</coordinates>
@@ -478,7 +528,8 @@ UCSC, CA </address>
         <Placemark id="feat_52">
             <name>
 <![CDATA[San Jose: City Hall Quads]]>            </name>
-            <address>200 East Santa Clara St., CA 95113</address>
+            <address>
+<![CDATA[200 East Santa Clara St., CA 95113]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_50">
                 <coordinates>-121.886796,37.337351,0.0</coordinates>
@@ -487,8 +538,9 @@ UCSC, CA </address>
         <Placemark id="feat_53">
             <name>
 <![CDATA[UCSC: OPERS]]>            </name>
-            <address>UCSC Pool Entrance
-Off Hagar Drive, UCSC, None 95064</address>
+            <address>
+<![CDATA[UCSC Pool Entrance
+Off Hagar Drive, UCSC, None 95064]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_51">
                 <coordinates>-122.0581762,36.9923139,0.0</coordinates>
@@ -497,7 +549,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_54">
             <name>
 <![CDATA[Fremont: Development Department]]>            </name>
-            <address>39550 Liberty St. , None 94539</address>
+            <address>
+<![CDATA[39550 Liberty St. , None 94539]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_52">
                 <coordinates>-121.9763708,37.5479534,0.0</coordinates>
@@ -506,7 +559,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_55">
             <name>
 <![CDATA[SFMTA: Ellis-O'Farrell Parking Garage]]>            </name>
-            <address>123 O'Farrell St, CA 94102</address>
+            <address>
+<![CDATA[123 O'Farrell St, CA 94102]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_53">
                 <coordinates>-122.4072497,37.7860878,0.0</coordinates>
@@ -515,7 +569,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_56">
             <name>
 <![CDATA[UCLA: Schoenberg]]>            </name>
-            <address>445 Charles E Young Drive East, CA 90095</address>
+            <address>
+<![CDATA[445 Charles E Young Drive East, CA 90095]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_54">
                 <coordinates>-118.439958,34.070066,0.0</coordinates>
@@ -524,7 +579,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_57">
             <name>
 <![CDATA[Pittsburg: Old Town]]>            </name>
-            <address>Railroad Avenue & East 6th St., CA 94565</address>
+            <address>
+<![CDATA[Railroad Avenue & East 6th St., CA 94565]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_55">
                 <coordinates>-121.883646,38.03127,0.0</coordinates>
@@ -533,7 +589,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_58">
             <name>
 <![CDATA[Trimet: Hollywood]]>            </name>
-            <address>NE Halsey and NE 42nd Ave, OR 97232</address>
+            <address>
+<![CDATA[NE Halsey and NE 42nd Ave, OR 97232]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_56">
                 <coordinates>-122.620765,45.533141,0.0</coordinates>
@@ -542,7 +599,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_59">
             <name>
 <![CDATA[SMART: Santa Rosa North]]>            </name>
-            <address>1500 Guerneville Road, CA 95403</address>
+            <address>
+<![CDATA[1500 Guerneville Road, CA 95403]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_57">
                 <coordinates>-122.7363881,38.4551412,0.0</coordinates>
@@ -551,7 +609,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_60">
             <name>
 <![CDATA[Santa Cruz: Parking Lot 10]]>            </name>
-            <address>River and Front Garage, near intersection of River and Front., CA </address>
+            <address>
+<![CDATA[River and Front Garage, near intersection of River and Front., CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_58">
                 <coordinates>-122.025146,36.975676,0.0</coordinates>
@@ -560,9 +619,10 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_61">
             <name>
 <![CDATA[MCT: Highland Park and Ride]]>            </name>
-            <address>12291 U.S. Highway 40
+            <address>
+<![CDATA[12291 U.S. Highway 40
 
-, IL 62249</address>
+, IL 62249]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_59">
                 <coordinates>-89.696921,38.739915,0.0</coordinates>
@@ -571,7 +631,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_62">
             <name>
 <![CDATA[BART: Rockridge ]]>            </name>
-            <address>5660 College Avenue, CA 94618</address>
+            <address>
+<![CDATA[5660 College Avenue, CA 94618]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_60">
                 <coordinates>-122.251632214,37.8444354925,0.0</coordinates>
@@ -580,7 +641,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_63">
             <name>
 <![CDATA[BART: Pleasant Hill ]]>            </name>
-            <address>1365 Treat Blvd., CA 94597</address>
+            <address>
+<![CDATA[1365 Treat Blvd., CA 94597]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_61">
                 <coordinates>-122.056195736,37.9287886461,0.0</coordinates>
@@ -589,7 +651,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_64">
             <name>
 <![CDATA[UCLA: School of Medicine]]>            </name>
-            <address>710 Westwood Plaza, CA 90095</address>
+            <address>
+<![CDATA[710 Westwood Plaza, CA 90095]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_62">
                 <coordinates>-118.444708,34.066494,0.0</coordinates>
@@ -598,7 +661,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_65">
             <name>
 <![CDATA[King Co: Northgate Transit Center]]>            </name>
-            <address>10200 1st Avenue NE, WA 98125</address>
+            <address>
+<![CDATA[10200 1st Avenue NE, WA 98125]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_63">
                 <coordinates>-122.32697,47.703048,0.0</coordinates>
@@ -607,7 +671,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_66">
             <name>
 <![CDATA[BART: Concord ]]>            </name>
-            <address>1451 Oakland Avenue, CA 94520 </address>
+            <address>
+<![CDATA[1451 Oakland Avenue, CA 94520 ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_64">
                 <coordinates>-122.029770613,37.9735846748,0.0</coordinates>
@@ -616,8 +681,9 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_67">
             <name>
 <![CDATA[Sonoma County: La Plaza]]>            </name>
-            <address>2380 Professional Drive
-, CA 95403</address>
+            <address>
+<![CDATA[2380 Professional Drive
+, CA 95403]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_65">
                 <coordinates>-122.725589,38.463166,0.0</coordinates>
@@ -626,7 +692,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_68">
             <name>
 <![CDATA[UCLA: Parking Structure 5 Level 1]]>            </name>
-            <address>302 Charles E Young Drive North, CA 90095</address>
+            <address>
+<![CDATA[302 Charles E Young Drive North, CA 90095]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_66">
                 <coordinates>-118.442763,34.073553,0.0</coordinates>
@@ -635,7 +702,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_69">
             <name>
 <![CDATA[UC Berkeley: RSF Bancroft]]>            </name>
-            <address>2301 Bancroft Way, CA 94702</address>
+            <address>
+<![CDATA[2301 Bancroft Way, CA 94702]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_67">
                 <coordinates>-122.2627233,37.8685702,0.0</coordinates>
@@ -644,7 +712,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_70">
             <name>
 <![CDATA[Santa Clara County: Service Center]]>            </name>
-            <address>1553 Berger Drive, CA 95112</address>
+            <address>
+<![CDATA[1553 Berger Drive, CA 95112]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_68">
                 <coordinates>-121.8973836,37.3740887,0.0</coordinates>
@@ -653,7 +722,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_71">
             <name>
 <![CDATA[Soltrans: Vallejo Transit Station]]>            </name>
-            <address>311 Sacramento St. Vallejo CA, 94590, CA </address>
+            <address>
+<![CDATA[311 Sacramento St. Vallejo CA, 94590, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_69">
                 <coordinates>-122.2583662,38.0997023,0.0</coordinates>
@@ -662,7 +732,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_72">
             <name>
 <![CDATA[Campbell: Hamilton LRT Station (elevat)]]>            </name>
-            <address>Hamilton/Creekside Southeast Corner, CA 95008</address>
+            <address>
+<![CDATA[Hamilton/Creekside Southeast Corner, CA 95008]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_70">
                 <coordinates>-121.935576,37.2943644,0.0</coordinates>
@@ -671,7 +742,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_73">
             <name>
 <![CDATA[BART: Fremont ]]>            </name>
-            <address>2000 Bart Way, CA 94536</address>
+            <address>
+<![CDATA[2000 Bart Way, CA 94536]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_71">
                 <coordinates>-121.976896226,37.5574999648,0.0</coordinates>
@@ -680,7 +752,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_74">
             <name>
 <![CDATA[SANDAG: Palomar Trolley Station]]>            </name>
-            <address>745 Industrial Avenue, CA 91911</address>
+            <address>
+<![CDATA[745 Industrial Avenue, CA 91911]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_72">
                 <coordinates>-117.084492,32.60361,0.0</coordinates>
@@ -689,7 +762,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_75">
             <name>
 <![CDATA[Roseville: Saugstad Park-N-Ride]]>            </name>
-            <address>100 Buljan Drive , CA </address>
+            <address>
+<![CDATA[100 Buljan Drive , CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_73">
                 <coordinates>-121.283334,38.742971,0.0</coordinates>
@@ -698,7 +772,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_76">
             <name>
 <![CDATA[UTA: Murray Central Front Runner Station]]>            </name>
-            <address>5100 South & Cottonwood Street, UT </address>
+            <address>
+<![CDATA[5100 South & Cottonwood Street, UT ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_74">
                 <coordinates>-111.8932703,40.6620211,0.0</coordinates>
@@ -707,7 +782,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_77">
             <name>
 <![CDATA[VTA: Ohlone/Chynoweth Station]]>            </name>
-            <address>Chynoweth Avenue & Pearl Avenue, CA </address>
+            <address>
+<![CDATA[Chynoweth Avenue & Pearl Avenue, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_75">
                 <coordinates>-121.859944,37.258183,0.0</coordinates>
@@ -716,7 +792,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_78">
             <name>
 <![CDATA[Concord: Civic Center/Public Library]]>            </name>
-            <address>1950 Parkside Drive, CA 94519</address>
+            <address>
+<![CDATA[1950 Parkside Drive, CA 94519]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_76">
                 <coordinates>-122.0244214,37.9813901,0.0</coordinates>
@@ -725,7 +802,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_79">
             <name>
 <![CDATA[King Co: Shoreline Park & Ride]]>            </name>
-            <address>18821 Aurora Ave N, WA 98133</address>
+            <address>
+<![CDATA[18821 Aurora Ave N, WA 98133]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_77">
                 <coordinates>-122.3460147,47.7661448,0.0</coordinates>
@@ -734,7 +812,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_80">
             <name>
 <![CDATA[SANDAG: Solana Beach Coaster Station]]>            </name>
-            <address>105 N Cedros Ave Solana Beach , CA  92075, CA 92075</address>
+            <address>
+<![CDATA[105 N Cedros Ave Solana Beach , CA  92075, CA 92075]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_78">
                 <coordinates>-117.2707,32.99258,0.0</coordinates>
@@ -743,7 +822,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_81">
             <name>
 <![CDATA[VTA: Great Mall Station]]>            </name>
-            <address>Great Mall Parkway & Main Street, CA </address>
+            <address>
+<![CDATA[Great Mall Parkway & Main Street, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_79">
                 <coordinates>-121.900647,37.413944,0.0</coordinates>
@@ -752,7 +832,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_82">
             <name>
 <![CDATA[SMART: Cotati Station]]>            </name>
-            <address>980 East Cotati Ave, CA 94931</address>
+            <address>
+<![CDATA[980 East Cotati Ave, CA 94931]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_80">
                 <coordinates>-122.6905752,38.3304417,0.0</coordinates>
@@ -761,7 +842,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_83">
             <name>
 <![CDATA[NVTA: Soscol Gateway Transit Center]]>            </name>
-            <address>625 Burnell St., CA 94559</address>
+            <address>
+<![CDATA[625 Burnell St., CA 94559]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_81">
                 <coordinates>-122.280331,38.297279,0.0</coordinates>
@@ -770,9 +852,10 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_84">
             <name>
 <![CDATA[MCT: Rivers Edge Park and Ride]]>            </name>
-            <address>3127 W. 20th St.
+            <address>
+<![CDATA[3127 W. 20th St.
 
-, IL 62040</address>
+, IL 62040]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_82">
                 <coordinates>-90.169415,38.705947,0.0</coordinates>
@@ -781,7 +864,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_85">
             <name>
 <![CDATA[Trimet: NE 60th]]>            </name>
-            <address>NE 60th and NE Oregon, OR 97213</address>
+            <address>
+<![CDATA[NE 60th and NE Oregon, OR 97213]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_83">
                 <coordinates>-122.602381,45.528458,0.0</coordinates>
@@ -790,7 +874,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_86">
             <name>
 <![CDATA[UC Berkeley: University Hall]]>            </name>
-            <address>2056 Oxford St, CA 94702</address>
+            <address>
+<![CDATA[2056 Oxford St, CA 94702]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_84">
                 <coordinates>-122.2661092,37.8718564,0.0</coordinates>
@@ -799,8 +884,9 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_87">
             <name>
 <![CDATA[Trimet: Orenco Bike & Ride]]>            </name>
-            <address>NE Orenco Station Pkwy. & Campus Ct.
-, OR 97124</address>
+            <address>
+<![CDATA[NE Orenco Station Pkwy. & Campus Ct.
+, OR 97124]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_85">
                 <coordinates>-122.9167906,45.5313825,0.0</coordinates>
@@ -809,7 +895,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_88">
             <name>
 <![CDATA[UTA: Provo Intermodal Center]]>            </name>
-            <address>W 600 S and S Freedom Blvd , UT 84601</address>
+            <address>
+<![CDATA[W 600 S and S Freedom Blvd , UT 84601]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_86">
                 <coordinates>-111.6622606,40.2260584,0.0</coordinates>
@@ -818,7 +905,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_89">
             <name>
 <![CDATA[King Co: Aurora Village Transit Center]]>            </name>
-            <address>1524 N 200th St, WA 98133</address>
+            <address>
+<![CDATA[1524 N 200th St, WA 98133]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_87">
                 <coordinates>-122.342189,47.774516,0.0</coordinates>
@@ -827,7 +915,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_90">
             <name>
 <![CDATA[BART: Union City ]]>            </name>
-            <address>10 Union Square, CA 94587</address>
+            <address>
+<![CDATA[10 Union Square, CA 94587]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_88">
                 <coordinates>-122.017787,37.591519,0.0</coordinates>
@@ -836,7 +925,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_91">
             <name>
 <![CDATA[San Jose: Cambrian Branch Library]]>            </name>
-            <address>1780 Hillsdale Ave, CA 95124</address>
+            <address>
+<![CDATA[1780 Hillsdale Ave, CA 95124]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_89">
                 <coordinates>-121.9149365,37.264466,0.0</coordinates>
@@ -845,7 +935,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_92">
             <name>
 <![CDATA[Roseville: Mahany Park-N-Ride]]>            </name>
-            <address>1545 Pleasant Grove Blvd, CA </address>
+            <address>
+<![CDATA[1545 Pleasant Grove Blvd, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_90">
                 <coordinates>-121.335287,38.767865,0.0</coordinates>
@@ -854,7 +945,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_93">
             <name>
 <![CDATA[Cap. Cor.: Roseville train station]]>            </name>
-            <address>201 Pacific St, CA 95678</address>
+            <address>
+<![CDATA[201 Pacific St, CA 95678]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_91">
                 <coordinates>-121.2861026,38.7501919,0.0</coordinates>
@@ -863,7 +955,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_94">
             <name>
 <![CDATA[Alameda Landing: Michael's]]>            </name>
-            <address>2610 Fifth Street, CA 94501</address>
+            <address>
+<![CDATA[2610 Fifth Street, CA 94501]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_92">
                 <coordinates>-122.278958,37.786796,0.0</coordinates>
@@ -872,7 +965,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_95">
             <name>
 <![CDATA[SANDAG: La Mesa Blvd]]>            </name>
-            <address>8248 La Mesa Blvd, CA 91941</address>
+            <address>
+<![CDATA[8248 La Mesa Blvd, CA 91941]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_93">
                 <coordinates>-117.0202802,32.7644453,0.0</coordinates>
@@ -881,7 +975,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_96">
             <name>
 <![CDATA[Santa Cruz: Library]]>            </name>
-            <address>224 Church St., CA 95060</address>
+            <address>
+<![CDATA[224 Church St., CA 95060]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_94">
                 <coordinates>-122.028456,36.974568,0.0</coordinates>
@@ -890,7 +985,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_97">
             <name>
 <![CDATA[El Cerrito: Community Center]]>            </name>
-            <address>7007 Moeser Lane, CA 94530</address>
+            <address>
+<![CDATA[7007 Moeser Lane, CA 94530]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_95">
                 <coordinates>-122.302973,37.914637,0.0</coordinates>
@@ -899,7 +995,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_98">
             <name>
 <![CDATA[Oakland: 19th Street BART]]>            </name>
-            <address>20th St & Broadway, CA 94612</address>
+            <address>
+<![CDATA[20th St & Broadway, CA 94612]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_96">
                 <coordinates>-122.268744,37.808198,0.0</coordinates>
@@ -908,7 +1005,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_99">
             <name>
 <![CDATA[BART: Civic Center Bike Station]]>            </name>
-            <address>1150 Market st., CA 94102</address>
+            <address>
+<![CDATA[1150 Market st., CA 94102]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_97">
                 <coordinates>-122.4126862,37.7800963,0.0</coordinates>
@@ -917,7 +1015,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_100">
             <name>
 <![CDATA[Vancouver: Vancouver Center]]>            </name>
-            <address>Columbia St.& W 6th St. , Vancouver WA 98660, WA 98660</address>
+            <address>
+<![CDATA[Columbia St.& W 6th St. , Vancouver WA 98660, WA 98660]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_98">
                 <coordinates>-122.6738708,45.6256478,0.0</coordinates>
@@ -926,7 +1025,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_101">
             <name>
 <![CDATA[Trimet: Parkrose/Sumner TC]]>            </name>
-            <address>9525 NE Sandy Blvd, OR 97220</address>
+            <address>
+<![CDATA[9525 NE Sandy Blvd, OR 97220]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_99">
                 <coordinates>-122.564078,45.55895,0.0</coordinates>
@@ -935,7 +1035,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_102">
             <name>
 <![CDATA[SRJC: Doyle Library]]>            </name>
-            <address>1501 Mendocino Ave, CA </address>
+            <address>
+<![CDATA[1501 Mendocino Ave, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_100">
                 <coordinates>-122.72085,38.456385,0.0</coordinates>
@@ -944,7 +1045,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_103">
             <name>
 <![CDATA[King Co: South Sammamish Park and Ride]]>            </name>
-            <address>228th Ave SE at Issaquah-Pine Lake Road SE, WA 98075</address>
+            <address>
+<![CDATA[228th Ave SE at Issaquah-Pine Lake Road SE, WA 98075]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_101">
                 <coordinates>-122.037343,47.582283,0.0</coordinates>
@@ -953,7 +1055,8 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_104">
             <name>
 <![CDATA[SANDAG: Massachusetts Ave]]>            </name>
-            <address>1787 San Altos Place, CA 91945</address>
+            <address>
+<![CDATA[1787 San Altos Place, CA 91945]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_102">
                 <coordinates>-117.039844,32.7243415,0.0</coordinates>
@@ -962,8 +1065,9 @@ Off Hagar Drive, UCSC, None 95064</address>
         <Placemark id="feat_105">
             <name>
 <![CDATA[Lawson Lane: Building B]]>            </name>
-            <address>2215 Lawson Lane
-Building B, CA 95054</address>
+            <address>
+<![CDATA[2215 Lawson Lane
+Building B, CA 95054]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_103">
                 <coordinates>-121.96227,37.375026,0.0</coordinates>
@@ -972,7 +1076,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_106">
             <name>
 <![CDATA[BART: Colma]]>            </name>
-            <address>365 D St, CA 94014</address>
+            <address>
+<![CDATA[365 D St, CA 94014]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_104">
                 <coordinates>-122.466448,37.685039,0.0</coordinates>
@@ -981,7 +1086,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_107">
             <name>
 <![CDATA[Hercules: Transit Center]]>            </name>
-            <address>Willow Avenue near the I-80 East off-ramp , CA 94547</address>
+            <address>
+<![CDATA[Willow Avenue near the I-80 East off-ramp , CA 94547]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_105">
                 <coordinates>-122.2625529,38.0082488,0.0</coordinates>
@@ -990,7 +1096,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_108">
             <name>
 <![CDATA[SANDAG: Iris Trolley Station]]>            </name>
-            <address>3120 Iris Avenue, CA 92173</address>
+            <address>
+<![CDATA[3120 Iris Avenue, CA 92173]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_106">
                 <coordinates>-117.066668,32.56927,0.0</coordinates>
@@ -999,7 +1106,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_109">
             <name>
 <![CDATA[SANDAG: 24th Street]]>            </name>
-            <address>506 W. 22nd St., CA 91950</address>
+            <address>
+<![CDATA[506 W. 22nd St., CA 91950]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_107">
                 <coordinates>-117.1073296,32.6623059,0.0</coordinates>
@@ -1008,7 +1116,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_110">
             <name>
 <![CDATA[BART: Pittsburg/Bay Point]]>            </name>
-            <address>1700 West Leland Road, CA 94565</address>
+            <address>
+<![CDATA[1700 West Leland Road, CA 94565]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_108">
                 <coordinates>-121.9458456,38.0155232,0.0</coordinates>
@@ -1017,7 +1126,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_111">
             <name>
 <![CDATA[VTA-BART Berryessa]]>            </name>
-            <address>Berryessa Station Way, CA 95133</address>
+            <address>
+<![CDATA[Berryessa Station Way, CA 95133]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_109">
                 <coordinates>-121.874511,37.368901,0.0</coordinates>
@@ -1026,7 +1136,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_112">
             <name>
 <![CDATA[SMART: Novato Hamilton Station	]]>            </name>
-            <address>10 Main Gate Road , CA 94903</address>
+            <address>
+<![CDATA[10 Main Gate Road , CA 94903]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_110">
                 <coordinates>-122.523915,38.056598,0.0</coordinates>
@@ -1035,7 +1146,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_113">
             <name>
 <![CDATA[San Jose: Educational Park Library]]>            </name>
-            <address>1772 Educational Park Dr, CA 95133</address>
+            <address>
+<![CDATA[1772 Educational Park Dr, CA 95133]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_111">
                 <coordinates>-121.8577364,37.3655773,0.0</coordinates>
@@ -1044,7 +1156,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_114">
             <name>
 <![CDATA[UCSC: Center for Ocean Health]]>            </name>
-            <address>100 Shaffer Road , CA 95060</address>
+            <address>
+<![CDATA[100 Shaffer Road , CA 95060]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_112">
                 <coordinates>-122.065626,36.949421,0.0</coordinates>
@@ -1053,7 +1166,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_115">
             <name>
 <![CDATA[Trimet: Quatama/NW 205th]]>            </name>
-            <address>325 NW 205th Ave, OR 97006</address>
+            <address>
+<![CDATA[325 NW 205th Ave, OR 97006]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_113">
                 <coordinates>-122.889487,45.523318,0.0</coordinates>
@@ -1062,7 +1176,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_116">
             <name>
 <![CDATA[Folsom: Glenn Drive Light Rail Station]]>            </name>
-            <address>Glenn Drive and Folsom Blvd, CA 95630</address>
+            <address>
+<![CDATA[Glenn Drive and Folsom Blvd, CA 95630]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_114">
                 <coordinates>-121.1839453,38.6639085,0.0</coordinates>
@@ -1071,7 +1186,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_117">
             <name>
 <![CDATA[SMART: Petaluma Downtown Station]]>            </name>
-            <address>220 Lakeville Street, CA 94952</address>
+            <address>
+<![CDATA[220 Lakeville Street, CA 94952]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_115">
                 <coordinates>-122.6353696,38.2376922,0.0</coordinates>
@@ -1080,7 +1196,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_118">
             <name>
 <![CDATA[American Canyon: Crawford Park & Ride]]>            </name>
-            <address>300 Crawford Way, CA 94503</address>
+            <address>
+<![CDATA[300 Crawford Way, CA 94503]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_116">
                 <coordinates>-122.255343,38.168818,0.0</coordinates>
@@ -1089,7 +1206,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_119">
             <name>
 <![CDATA[Contra Costa Centre]]>            </name>
-            <address>1365 Treat Blvd. , CA 94597</address>
+            <address>
+<![CDATA[1365 Treat Blvd. , CA 94597]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_117">
                 <coordinates>-122.056609,37.928385,0.0</coordinates>
@@ -1098,8 +1216,9 @@ Building B, CA 95054</address>
         <Placemark id="feat_120">
             <name>
 <![CDATA[Santa Clara County: McEntee Plaza]]>            </name>
-            <address>70 West Hedding St
-, CA 95112</address>
+            <address>
+<![CDATA[70 West Hedding St
+, CA 95112]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_118">
                 <coordinates>-121.903996,37.352403,0.0</coordinates>
@@ -1108,8 +1227,9 @@ Building B, CA 95054</address>
         <Placemark id="feat_121">
             <name>
 <![CDATA[King Co: Kenmore Park and Ride]]>            </name>
-            <address>7346 Bothell Way NE
-, WA 98028</address>
+            <address>
+<![CDATA[7346 Bothell Way NE
+, WA 98028]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_119">
                 <coordinates>-122.242999,47.7573697,0.0</coordinates>
@@ -1118,7 +1238,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_122">
             <name>
 <![CDATA[El Cerrito: City Hall]]>            </name>
-            <address>10890 San Pablo Ave, CA 94530</address>
+            <address>
+<![CDATA[10890 San Pablo Ave, CA 94530]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_120">
                 <coordinates>-122.310829,37.915747,0.0</coordinates>
@@ -1127,7 +1248,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_123">
             <name>
 <![CDATA[Campbell: Hamilton LRT Station (wall)]]>            </name>
-            <address>Hamilton/Creekside Southeast Corner, CA 95008</address>
+            <address>
+<![CDATA[Hamilton/Creekside Southeast Corner, CA 95008]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_121">
                 <coordinates>-121.935576,37.2943644,0.0</coordinates>
@@ -1136,8 +1258,9 @@ Building B, CA 95054</address>
         <Placemark id="feat_124">
             <name>
 <![CDATA[King Co: South Kirkland Park and Ride]]>            </name>
-            <address>10610 NE 38th Place
-, WA 98033</address>
+            <address>
+<![CDATA[10610 NE 38th Place
+, WA 98033]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_122">
                 <coordinates>-122.195451,47.644385,0.0</coordinates>
@@ -1146,7 +1269,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_125">
             <name>
 <![CDATA[SANDAG: Airport]]>            </name>
-            <address>3225 North Harbor Drive, CA </address>
+            <address>
+<![CDATA[3225 North Harbor Drive, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_123">
                 <coordinates>-117.1976937,32.7314269,0.0</coordinates>
@@ -1155,7 +1279,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_126">
             <name>
 <![CDATA[Santa Cruz: Parking Lot 4]]>            </name>
-            <address>corner of Cedar and Cathcart Streets, CA </address>
+            <address>
+<![CDATA[corner of Cedar and Cathcart Streets, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_124">
                 <coordinates>-122.02683,36.971446,0.0</coordinates>
@@ -1164,7 +1289,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_127">
             <name>
 <![CDATA[BART: Glen Park]]>            </name>
-            <address>2973 Diamond St, CA 94131</address>
+            <address>
+<![CDATA[2973 Diamond St, CA 94131]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_125">
                 <coordinates>-122.4343265,37.7330371,0.0</coordinates>
@@ -1173,7 +1299,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_128">
             <name>
 <![CDATA[VTA: Branham Station]]>            </name>
-            <address>Branham Lane & Narvaez Avenue, CA </address>
+            <address>
+<![CDATA[Branham Lane & Narvaez Avenue, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_126">
                 <coordinates>-121.857525,37.266175,0.0</coordinates>
@@ -1182,7 +1309,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_129">
             <name>
 <![CDATA[San Mateo: Downtown Caltrain Station]]>            </name>
-            <address>Transit Center Way, CA 94401</address>
+            <address>
+<![CDATA[Transit Center Way, CA 94401]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_127">
                 <coordinates>-122.324248,37.5680012,0.0</coordinates>
@@ -1191,7 +1319,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_130">
             <name>
 <![CDATA[Santa Cruz: River and Front Garage]]>            </name>
-            <address>South side of River and Front Garage next to the Galleria Office Complex , CA </address>
+            <address>
+<![CDATA[South side of River and Front Garage next to the Galleria Office Complex , CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_128">
                 <coordinates>-122.024967,36.976169,0.0</coordinates>
@@ -1200,7 +1329,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_131">
             <name>
 <![CDATA[SANDAG: Encinitas Rail Station]]>            </name>
-            <address>25 East D Street, CA 92024</address>
+            <address>
+<![CDATA[25 East D Street, CA 92024]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_129">
                 <coordinates>-117.293259,33.046224,0.0</coordinates>
@@ -1209,7 +1339,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_132">
             <name>
 <![CDATA[SANDAG: Amaya]]>            </name>
-            <address>5625 Amaya Drive, CA </address>
+            <address>
+<![CDATA[5625 Amaya Drive, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_130">
                 <coordinates>-117.0014362,32.7862089,0.0</coordinates>
@@ -1218,8 +1349,9 @@ Building B, CA 95054</address>
         <Placemark id="feat_133">
             <name>
 <![CDATA[MCT: Edwardsville Transit Station]]>            </name>
-            <address>160 Hillsboro Ave.
-, IL 62025</address>
+            <address>
+<![CDATA[160 Hillsboro Ave.
+, IL 62025]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_131">
                 <coordinates>-89.95683,38.813452,0.0</coordinates>
@@ -1228,7 +1360,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_134">
             <name>
 <![CDATA[Moffett Towers]]>            </name>
-            <address>D Street at W. Moffett Park Dr., CA 94040</address>
+            <address>
+<![CDATA[D Street at W. Moffett Park Dr., CA 94040]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_132">
                 <coordinates>-122.033333333,37.4024444444,0.0</coordinates>
@@ -1237,7 +1370,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_135">
             <name>
 <![CDATA[San Mateo: Michael's Hillsdale]]>            </name>
-            <address>2925 El Camino Real, CA 94403</address>
+            <address>
+<![CDATA[2925 El Camino Real, CA 94403]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_133">
                 <coordinates>-122.300642,37.540487,0.0</coordinates>
@@ -1246,7 +1380,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_136">
             <name>
 <![CDATA[Presidio: Transit Station]]>            </name>
-            <address>Lincoln Blvd  &  Graham St., CA 94123</address>
+            <address>
+<![CDATA[Lincoln Blvd  &  Graham St., CA 94123]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_134">
                 <coordinates>-122.456368,37.801626,0.0</coordinates>
@@ -1255,7 +1390,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_137">
             <name>
 <![CDATA[Cap. Cor.: Auburn train station]]>            </name>
-            <address>277 Nevada St, CA 95603</address>
+            <address>
+<![CDATA[277 Nevada St, CA 95603]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_135">
                 <coordinates>-121.0825539,38.9041731,0.0</coordinates>
@@ -1264,7 +1400,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_138">
             <name>
 <![CDATA[SANDAG: Miramar Transit Center]]>            </name>
-            <address>9315 Hillery Drive, CA 92126</address>
+            <address>
+<![CDATA[9315 Hillery Drive, CA 92126]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_136">
                 <coordinates>-117.1184937,32.9121453,0.0</coordinates>
@@ -1273,7 +1410,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_139">
             <name>
 <![CDATA[Fremont: Centerville Train Depot]]>            </name>
-            <address>37260 Fremont Blvd., CA 94539</address>
+            <address>
+<![CDATA[37260 Fremont Blvd., CA 94539]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_137">
                 <coordinates>-122.00667,37.559694,0.0</coordinates>
@@ -1282,7 +1420,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_140">
             <name>
 <![CDATA[VT: Burlington Town Center]]>            </name>
-            <address>75 Cherry St, VT 05401</address>
+            <address>
+<![CDATA[75 Cherry St, VT 05401]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_138">
                 <coordinates>-73.2151292,44.4789919,0.0</coordinates>
@@ -1291,7 +1430,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_141">
             <name>
 <![CDATA[Vancouver: Main & West 11th]]>            </name>
-            <address>1105 Main St., WA 98660</address>
+            <address>
+<![CDATA[1105 Main St., WA 98660]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_139">
                 <coordinates>-122.6715986,45.6297229,0.0</coordinates>
@@ -1300,7 +1440,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_142">
             <name>
 <![CDATA[San Jose: Joyce Ellington Library]]>            </name>
-            <address>491 E Empire St, CA 95112</address>
+            <address>
+<![CDATA[491 E Empire St, CA 95112]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_140">
                 <coordinates>-121.887029,37.349797,0.0</coordinates>
@@ -1309,7 +1450,8 @@ Building B, CA 95054</address>
         <Placemark id="feat_143">
             <name>
 <![CDATA[BART: El Cerrito Plaza]]>            </name>
-            <address>6699 Fairmount Avenue. El Cerrito, CA 94530, None </address>
+            <address>
+<![CDATA[6699 Fairmount Avenue. El Cerrito, CA 94530, None ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_141">
                 <coordinates>-122.299278,37.9016851,0.0</coordinates>
@@ -1318,8 +1460,9 @@ Building B, CA 95054</address>
         <Placemark id="feat_144">
             <name>
 <![CDATA[UCSC: Baskin Engineering]]>            </name>
-            <address>McLaughlin Dr and Steinhart Way
-UCSC, CA 95064</address>
+            <address>
+<![CDATA[McLaughlin Dr and Steinhart Way
+UCSC, CA 95064]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_142">
                 <coordinates>-122.0626,37.000236,0.0</coordinates>
@@ -1328,7 +1471,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_145">
             <name>
 <![CDATA[SANDAG: Rancho Bernardo Transit Station]]>            </name>
-            <address>16785 West Bernardo Drive, CA 92127</address>
+            <address>
+<![CDATA[16785 West Bernardo Drive, CA 92127]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_143">
                 <coordinates>-117.080619,33.016641,0.0</coordinates>
@@ -1337,7 +1481,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_146">
             <name>
 <![CDATA[VTA: Winchester Transit Center]]>            </name>
-            <address>2400 Winchester Boulevard, CA </address>
+            <address>
+<![CDATA[2400 Winchester Boulevard, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_144">
                 <coordinates>-121.948139,37.279683,0.0</coordinates>
@@ -1346,7 +1491,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_147">
             <name>
 <![CDATA[Richmond: City Hall]]>            </name>
-            <address>450 Civic Center Plaza, CA 94804</address>
+            <address>
+<![CDATA[450 Civic Center Plaza, CA 94804]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_145">
                 <coordinates>-122.3435129,37.936353,0.0</coordinates>
@@ -1355,7 +1501,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_148">
             <name>
 <![CDATA[BART: Embarcadero Bike Station]]>            </name>
-            <address>298 Market Street, CA 94105</address>
+            <address>
+<![CDATA[298 Market Street, CA 94105]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_146">
                 <coordinates>-122.3973883,37.7924328,0.0</coordinates>
@@ -1364,7 +1511,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_149">
             <name>
 <![CDATA[King Co: Burien Transit Center]]>            </name>
-            <address>209 SW 148th St, WA 98166</address>
+            <address>
+<![CDATA[209 SW 148th St, WA 98166]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_147">
                 <coordinates>-122.337191,47.469709,0.0</coordinates>
@@ -1373,7 +1521,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_150">
             <name>
 <![CDATA[Trimet: Tigard]]>            </name>
-            <address>SW Main Street (Next to railroad tracks), OR 97223</address>
+            <address>
+<![CDATA[SW Main Street (Next to railroad tracks), OR 97223]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_148">
                 <coordinates>-122.770695984,45.4306718861,0.0</coordinates>
@@ -1382,7 +1531,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_151">
             <name>
 <![CDATA[Alameda: Harbor Bay Ferry Terminal]]>            </name>
-            <address>215 Adelphian Way, CA 94502</address>
+            <address>
+<![CDATA[215 Adelphian Way, CA 94502]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_149">
                 <coordinates>-122.257249,37.7379659,0.0</coordinates>
@@ -1391,7 +1541,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_152">
             <name>
 <![CDATA[Tracy: Intermodal Center]]>            </name>
-            <address>6th St & N Central Ave, CA 95376</address>
+            <address>
+<![CDATA[6th St & N Central Ave, CA 95376]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_150">
                 <coordinates>-121.4256986,37.7346471,0.0</coordinates>
@@ -1400,7 +1551,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_153">
             <name>
 <![CDATA[Trimet: Milwaukie Main Street]]>            </name>
-            <address>11301 SE 21st Ave, OR 97222</address>
+            <address>
+<![CDATA[11301 SE 21st Ave, OR 97222]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_151">
                 <coordinates>-122.6396143,45.4409274,0.0</coordinates>
@@ -1409,7 +1561,8 @@ UCSC, CA 95064</address>
         <Placemark id="feat_154">
             <name>
 <![CDATA[BART: South Hayward ]]>            </name>
-            <address>28601 Dixon Street, CA 94544</address>
+            <address>
+<![CDATA[28601 Dixon Street, CA 94544]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_152">
                 <coordinates>-122.0555419,37.6348538,0.0</coordinates>
@@ -1418,8 +1571,9 @@ UCSC, CA 95064</address>
         <Placemark id="feat_155">
             <name>
 <![CDATA[UCSC: Science Library]]>            </name>
-            <address>UCSC Science Library
-Red Hill Road, UCSC, CA 95064</address>
+            <address>
+<![CDATA[UCSC Science Library
+Red Hill Road, UCSC, CA 95064]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_153">
                 <coordinates>-122.060716,36.998795,0.0</coordinates>
@@ -1428,7 +1582,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_156">
             <name>
 <![CDATA[SANDAG: Euclid Avenue]]>            </name>
-            <address>450 Euclid Avenue, CA 92102</address>
+            <address>
+<![CDATA[450 Euclid Avenue, CA 92102]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_154">
                 <coordinates>-117.085355,32.710156,0.0</coordinates>
@@ -1437,8 +1592,9 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_157">
             <name>
 <![CDATA[BART: Walnut Creek ]]>            </name>
-            <address>200 Ygnacio Valley Road
-, CA 94596</address>
+            <address>
+<![CDATA[200 Ygnacio Valley Road
+, CA 94596]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_155">
                 <coordinates>-122.067203522,37.9055550264,0.0</coordinates>
@@ -1447,7 +1603,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_158">
             <name>
 <![CDATA[Alameda Landing: Safeway]]>            </name>
-            <address>2610 Fifth Street, CA 94501</address>
+            <address>
+<![CDATA[2610 Fifth Street, CA 94501]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_156">
                 <coordinates>-122.280272,37.785713,0.0</coordinates>
@@ -1456,10 +1613,11 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_159">
             <name>
 <![CDATA[BART: Lafayette]]>            </name>
-            <address>CITY CENTER SIDE OF STATION
+            <address>
+<![CDATA[CITY CENTER SIDE OF STATION
 
 3601 Deer Hill Rd
-, CA 94549</address>
+, CA 94549]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_157">
                 <coordinates>-122.1247092,37.893567,0.0</coordinates>
@@ -1468,7 +1626,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_160">
             <name>
 <![CDATA[Walnut Creek: Locust Parking Garage]]>            </name>
-            <address>1625 Locust St, CA 94596</address>
+            <address>
+<![CDATA[1625 Locust St, CA 94596]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_158">
                 <coordinates>-122.0628988,37.9009468,0.0</coordinates>
@@ -1477,7 +1636,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_161">
             <name>
 <![CDATA[BART: South San Francisco]]>            </name>
-            <address>1333 Mission Rd, CA 94080</address>
+            <address>
+<![CDATA[1333 Mission Rd, CA 94080]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_159">
                 <coordinates>-122.444314,37.66375,0.0</coordinates>
@@ -1486,7 +1646,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_162">
             <name>
 <![CDATA[VTA: Alum Rock Transit Center]]>            </name>
-            <address>Capitol Avenue & Wilbur Avenue, CA </address>
+            <address>
+<![CDATA[Capitol Avenue & Wilbur Avenue, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_160">
                 <coordinates>-121.832592,37.358189,0.0</coordinates>
@@ -1495,7 +1656,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_163">
             <name>
 <![CDATA[SRJC: Plover Hall]]>            </name>
-            <address>1501 Mendocino Ave, CA </address>
+            <address>
+<![CDATA[1501 Mendocino Ave, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_161">
                 <coordinates>-122.719927,38.457677,0.0</coordinates>
@@ -1504,7 +1666,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_164">
             <name>
 <![CDATA[Trimet: Cleveland Ave Park &  Ride]]>            </name>
-            <address>1200 NE 8th St, OR 97080</address>
+            <address>
+<![CDATA[1200 NE 8th St, OR 97080]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_162">
                 <coordinates>-122.417918,45.50193,0.0</coordinates>
@@ -1513,7 +1676,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_165">
             <name>
 <![CDATA[Santa Cruz: Metro Center]]>            </name>
-            <address>920 Pacific Ave, CA </address>
+            <address>
+<![CDATA[920 Pacific Ave, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_163">
                 <coordinates>-122.024395,36.970518,0.0</coordinates>
@@ -1522,7 +1686,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_166">
             <name>
 <![CDATA[King Co: Tukwila Park and Ride]]>            </name>
-            <address>13445 Interurban Avenue South, WA 98168</address>
+            <address>
+<![CDATA[13445 Interurban Avenue South, WA 98168]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_164">
                 <coordinates>-122.268241,47.48213,0.0</coordinates>
@@ -1531,7 +1696,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_167">
             <name>
 <![CDATA[Cap. Cor.: Sacramento Amtrak station]]>            </name>
-            <address>401 I Street, CA 95814</address>
+            <address>
+<![CDATA[401 I Street, CA 95814]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_165">
                 <coordinates>-121.5008789,38.5835207,0.0</coordinates>
@@ -1540,7 +1706,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_168">
             <name>
 <![CDATA[Sonoma County: Hall of Justice]]>            </name>
-            <address>2777 Ventura Avenue, CA 95403</address>
+            <address>
+<![CDATA[2777 Ventura Avenue, CA 95403]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_166">
                 <coordinates>-122.724369,38.46756,0.0</coordinates>
@@ -1549,8 +1716,9 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_169">
             <name>
 <![CDATA[SANDAG: Santa Fe Depot]]>            </name>
-            <address>1050 Kettner Blvd
-, CA 92101</address>
+            <address>
+<![CDATA[1050 Kettner Blvd
+, CA 92101]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_167">
                 <coordinates>-117.1695229,32.7166066,0.0</coordinates>
@@ -1559,7 +1727,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_170">
             <name>
 <![CDATA[BART: Ashby Bike Station]]>            </name>
-            <address>3100 Adeline Street, CA 94703</address>
+            <address>
+<![CDATA[3100 Adeline Street, CA 94703]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_168">
                 <coordinates>-122.270115,37.852602,0.0</coordinates>
@@ -1568,7 +1737,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_171">
             <name>
 <![CDATA[SMART: San Rafael Downtown]]>            </name>
-            <address>1050 Tamalpais Ave, CA 94901</address>
+            <address>
+<![CDATA[1050 Tamalpais Ave, CA 94901]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_169">
                 <coordinates>-122.522651,37.9728834,0.0</coordinates>
@@ -1577,7 +1747,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_172">
             <name>
 <![CDATA[BART: Warm Springs ]]>            </name>
-            <address>Warm Springs Blvd & Brown Rd, CA 94539</address>
+            <address>
+<![CDATA[Warm Springs Blvd & Brown Rd, CA 94539]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_170">
                 <coordinates>-121.9318798,37.4940763,0.0</coordinates>
@@ -1586,7 +1757,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_173">
             <name>
 <![CDATA[SRJC: Quinn Swim Center]]>            </name>
-            <address>, CA </address>
+            <address>
+<![CDATA[, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_171">
                 <coordinates>-122.720665,38.453916,0.0</coordinates>
@@ -1595,7 +1767,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_174">
             <name>
 <![CDATA[SRJC: Analy Village]]>            </name>
-            <address>1501 Mendocino Ave, CA </address>
+            <address>
+<![CDATA[1501 Mendocino Ave, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_172">
                 <coordinates>-122.724502,38.4547,0.0</coordinates>
@@ -1604,7 +1777,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_175">
             <name>
 <![CDATA[Folsom: Sutter St. Light Rail Station]]>            </name>
-            <address>Leidesdorf Street and Reading Street, CA 95630</address>
+            <address>
+<![CDATA[Leidesdorf Street and Reading Street, CA 95630]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_173">
                 <coordinates>-121.1806851,38.6765541,0.0</coordinates>
@@ -1613,7 +1787,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_176">
             <name>
 <![CDATA[SRJC: Tauzer Gym]]>            </name>
-            <address>1501 Mendocino Ave, CA </address>
+            <address>
+<![CDATA[1501 Mendocino Ave, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_174">
                 <coordinates>-122.719997,38.454494,0.0</coordinates>
@@ -1622,7 +1797,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_177">
             <name>
 <![CDATA[NVTA: Redwood Park and Ride]]>            </name>
-            <address>Corner of Redwood Rd. and Solano Ave., CA 94558</address>
+            <address>
+<![CDATA[Corner of Redwood Rd. and Solano Ave., CA 94558]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_175">
                 <coordinates>-122.3102284,38.3209316,0.0</coordinates>
@@ -1631,7 +1807,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_178">
             <name>
 <![CDATA[SANDAG: Oceanside Coaster Station]]>            </name>
-            <address>200 N The Strand, CA 92054</address>
+            <address>
+<![CDATA[200 N The Strand, CA 92054]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_176">
                 <coordinates>-117.3830461,33.1930077,0.0</coordinates>
@@ -1640,7 +1817,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_179">
             <name>
 <![CDATA[VT: Winooski Multi Modal Hub]]>            </name>
-            <address>25 Winooski Falls Way , VT 05404</address>
+            <address>
+<![CDATA[25 Winooski Falls Way , VT 05404]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_177">
                 <coordinates>-73.184864,44.4906924,0.0</coordinates>
@@ -1649,7 +1827,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_180">
             <name>
 <![CDATA[SANDAG: Encanto Trolley Station]]>            </name>
-            <address>6249 Akins Avenue, CA 92114</address>
+            <address>
+<![CDATA[6249 Akins Avenue, CA 92114]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_178">
                 <coordinates>-117.063287,32.710254,0.0</coordinates>
@@ -1658,7 +1837,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_181">
             <name>
 <![CDATA[SFMTA: Moscone Walkway]]>            </name>
-            <address>255 3rd Street, CA 94103</address>
+            <address>
+<![CDATA[255 3rd Street, CA 94103]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_179">
                 <coordinates>-122.399641,37.784947,0.0</coordinates>
@@ -1667,7 +1847,8 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_182">
             <name>
 <![CDATA[BART: Castro Valley ]]>            </name>
-            <address>3301 Norbridge Drive, CA 94546</address>
+            <address>
+<![CDATA[3301 Norbridge Drive, CA 94546]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_180">
                 <coordinates>-122.074998021,37.6914361474,0.0</coordinates>
@@ -1676,8 +1857,9 @@ Red Hill Road, UCSC, CA 95064</address>
         <Placemark id="feat_183">
             <name>
 <![CDATA[BART: Millbrae]]>            </name>
-            <address>200 Rollins Rd
-Near Caltrain Platform, CA 94030</address>
+            <address>
+<![CDATA[200 Rollins Rd
+Near Caltrain Platform, CA 94030]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_181">
                 <coordinates>-122.387071,37.600051,0.0</coordinates>
@@ -1686,7 +1868,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_184">
             <name>
 <![CDATA[Santa Cruz: City Hall]]>            </name>
-            <address>809 Center Street , CA 95060</address>
+            <address>
+<![CDATA[809 Center Street , CA 95060]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_182">
                 <coordinates>-122.029401,36.974375,0.0</coordinates>
@@ -1695,7 +1878,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_185">
             <name>
 <![CDATA[Trimet: Park Avenue Bike & Ride]]>            </name>
-            <address>SE Mcloughlin Ave and SE Park Ave, OR 97222</address>
+            <address>
+<![CDATA[SE Mcloughlin Ave and SE Park Ave, OR 97222]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_183">
                 <coordinates>-122.6346384,45.4301986,0.0</coordinates>
@@ -1704,7 +1888,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_186">
             <name>
 <![CDATA[Cap. Cor.: Emeryville Amtrak Station]]>            </name>
-            <address>5885 Horton St, CA 94608</address>
+            <address>
+<![CDATA[5885 Horton St, CA 94608]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_184">
                 <coordinates>-122.2917696,37.8406179,0.0</coordinates>
@@ -1713,7 +1898,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_187">
             <name>
 <![CDATA[Trimet: Tacoma Park & Ride]]>            </name>
-            <address>8398 SE McLoughlin Blvd, OR 97202</address>
+            <address>
+<![CDATA[8398 SE McLoughlin Blvd, OR 97202]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_185">
                 <coordinates>-122.6384946,45.4628787,0.0</coordinates>
@@ -1722,7 +1908,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_188">
             <name>
 <![CDATA[BART: Daly City ]]>            </name>
-            <address>500 John Daly Blvd, CA 94014</address>
+            <address>
+<![CDATA[500 John Daly Blvd, CA 94014]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_186">
                 <coordinates>-122.4695106,37.705159,0.0</coordinates>
@@ -1731,7 +1918,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_189">
             <name>
 <![CDATA[BART: Hayward ]]>            </name>
-            <address>699 B Street Hayward, CA 94541</address>
+            <address>
+<![CDATA[699 B Street Hayward, CA 94541]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_187">
                 <coordinates>-122.087269127,37.6701383281,0.0</coordinates>
@@ -1740,7 +1928,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_190">
             <name>
 <![CDATA[Cap. Cor.: Martinez Amtrak Station]]>            </name>
-            <address>601 Marina Vista Ave, CA 94553</address>
+            <address>
+<![CDATA[601 Marina Vista Ave, CA 94553]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_188">
                 <coordinates>-122.1388315,38.0190895,0.0</coordinates>
@@ -1749,7 +1938,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_191">
             <name>
 <![CDATA[Trimet: Hillsboro Central TC]]>            </name>
-            <address>333 SE Washington, OR 97123</address>
+            <address>
+<![CDATA[333 SE Washington, OR 97123]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_189">
                 <coordinates>-122.984991,45.521597,0.0</coordinates>
@@ -1758,7 +1948,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_192">
             <name>
 <![CDATA[Tahoe City: Transit Center]]>            </name>
-            <address>Highway 89 (W River Road) at Highway 28 (W Lake Blvd), south side,, CA 96146</address>
+            <address>
+<![CDATA[Highway 89 (W River Road) at Highway 28 (W Lake Blvd), south side,, CA 96146]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_190">
                 <coordinates>-120.144728,39.165023,0.0</coordinates>
@@ -1767,7 +1958,8 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_193">
             <name>
 <![CDATA[SANDAG: 8th Street]]>            </name>
-            <address>555 West 8th Street, CA 91950</address>
+            <address>
+<![CDATA[555 West 8th Street, CA 91950]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_191">
                 <coordinates>-117.113744,32.673935,0.0</coordinates>
@@ -1776,8 +1968,9 @@ Near Caltrain Platform, CA 94030</address>
         <Placemark id="feat_194">
             <name>
 <![CDATA[UCSC: Seymour Center]]>            </name>
-            <address>UCSC Coastal Marine Campus
-McAllister Way, CA 95060</address>
+            <address>
+<![CDATA[UCSC Coastal Marine Campus
+McAllister Way, CA 95060]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_192">
                 <coordinates>-122.065082,36.949211,0.0</coordinates>
@@ -1786,7 +1979,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_195">
             <name>
 <![CDATA[AAA: Walnut Creek Station Landing]]>            </name>
-            <address>3055 Oak Rd, CA 94597 </address>
+            <address>
+<![CDATA[3055 Oak Rd, CA 94597 ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_193">
                 <coordinates>-122.059097,37.930323,0.0</coordinates>
@@ -1795,8 +1989,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_196">
             <name>
 <![CDATA[MCT: LeClaire Junction Park & Ride East]]>            </name>
-            <address>400 LeClaire St.
-, IL 62025</address>
+            <address>
+<![CDATA[400 LeClaire St.
+, IL 62025]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_194">
                 <coordinates>-89.950853,38.806272,0.0</coordinates>
@@ -1805,7 +2000,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_197">
             <name>
 <![CDATA[Vancouver: Main & E 20th]]>            </name>
-            <address>2003 Main St., WA 98660</address>
+            <address>
+<![CDATA[2003 Main St., WA 98660]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_195">
                 <coordinates>-122.6714646,45.6368551,0.0</coordinates>
@@ -1814,7 +2010,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_198">
             <name>
 <![CDATA[SANDAG: Carlsbad Village Coaster Sta.]]>            </name>
-            <address>2822 State St. Carlsbad CA 92008-1630  CA, CA 92008-1630</address>
+            <address>
+<![CDATA[2822 State St. Carlsbad CA 92008-1630  CA, CA 92008-1630]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_196">
                 <coordinates>-117.3501279,33.1613507,0.0</coordinates>
@@ -1823,7 +2020,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_199">
             <name>
 <![CDATA[San Jose: City Hall (City Employees Only)]]>            </name>
-            <address>200 East Santa Clara St., CA 95113</address>
+            <address>
+<![CDATA[200 East Santa Clara St., CA 95113]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_197">
                 <coordinates>-121.886444,37.33798,0.0</coordinates>
@@ -1832,7 +2030,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_200">
             <name>
 <![CDATA[VTA: River Oaks Station]]>            </name>
-            <address>1st Street and River Oaks Parkway, CA </address>
+            <address>
+<![CDATA[1st Street and River Oaks Parkway, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_198">
                 <coordinates>-121.939742,37.401458,0.0</coordinates>
@@ -1841,7 +2040,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_201">
             <name>
 <![CDATA[Trimet: Beaverton Bike & Ride]]>            </name>
-            <address>3864 SW Lombard Avenue, OR 97005</address>
+            <address>
+<![CDATA[3864 SW Lombard Avenue, OR 97005]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_199">
                 <coordinates>-122.8021903,45.4906613,0.0</coordinates>
@@ -1850,7 +2050,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_202">
             <name>
 <![CDATA[Trimet: NE 82nd]]>            </name>
-            <address>NE 82nd and NE Jonesmore Street, OR 97220</address>
+            <address>
+<![CDATA[NE 82nd and NE Jonesmore Street, OR 97220]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_200">
                 <coordinates>-122.578843,45.533729,0.0</coordinates>
@@ -1859,7 +2060,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_203">
             <name>
 <![CDATA[Trimet: Barbur Transit Center]]>            </name>
-            <address>9712 SW Barbur Blvd, OR 97219</address>
+            <address>
+<![CDATA[9712 SW Barbur Blvd, OR 97219]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_201">
                 <coordinates>-122.718148,45.45429,0.0</coordinates>
@@ -1868,7 +2070,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_204">
             <name>
 <![CDATA[Vancouver: Main & W 12th]]>            </name>
-            <address>12th and Main, WA 98660</address>
+            <address>
+<![CDATA[12th and Main, WA 98660]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_202">
                 <coordinates>-122.6715422,45.630295,0.0</coordinates>
@@ -1877,8 +2080,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_205">
             <name>
 <![CDATA[BART: Orinda ]]>            </name>
-            <address>11 Camino Pablo
-, CA 94563</address>
+            <address>
+<![CDATA[11 Camino Pablo
+, CA 94563]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_203">
                 <coordinates>-122.183876932,37.8783932859,0.0</coordinates>
@@ -1887,7 +2091,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_206">
             <name>
 <![CDATA[VTA: Bascom Station]]>            </name>
-            <address>Southwest Expy & S Bascom Ave, CA 95126</address>
+            <address>
+<![CDATA[Southwest Expy & S Bascom Ave, CA 95126]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_204">
                 <coordinates>-121.92935,37.300092,0.0</coordinates>
@@ -1896,7 +2101,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_207">
             <name>
 <![CDATA[WETA: South SF Ferry Terminal]]>            </name>
-            <address>425 Marina Boulevard , CA 94080</address>
+            <address>
+<![CDATA[425 Marina Boulevard , CA 94080]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_205">
                 <coordinates>-122.376927,37.662349,0.0</coordinates>
@@ -1905,7 +2111,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_208">
             <name>
 <![CDATA[Santa Cruz: Locust Garage]]>            </name>
-            <address>corner of Cedar and Locust Streets, CA </address>
+            <address>
+<![CDATA[corner of Cedar and Locust Streets, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_206">
                 <coordinates>-122.027695,36.975099,0.0</coordinates>
@@ -1914,7 +2121,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_209">
             <name>
 <![CDATA[VTA: Evelyn LTR Station]]>            </name>
-            <address>E Evelyn Ave. & Pioneer Way,, CA 94041</address>
+            <address>
+<![CDATA[E Evelyn Ave. & Pioneer Way,, CA 94041]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_207">
                 <coordinates>-122.066279,37.389528,0.0</coordinates>
@@ -1923,7 +2131,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_210">
             <name>
 <![CDATA[Santa Cruz: Cedar and Church Garage]]>            </name>
-            <address>corner of Cedar and Church Street , CA </address>
+            <address>
+<![CDATA[corner of Cedar and Church Street , CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_208">
                 <coordinates>-122.0275451,36.9743897,0.0</coordinates>
@@ -1932,7 +2141,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_211">
             <name>
 <![CDATA[SFMTA: Fifth&Mission Parking Garage]]>            </name>
-            <address>833 Mission St, CA 94102</address>
+            <address>
+<![CDATA[833 Mission St, CA 94102]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_209">
                 <coordinates>-122.405968,37.782631,0.0</coordinates>
@@ -1941,8 +2151,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_212">
             <name>
 <![CDATA[MCT: Eastgate Plaza Park and Ride]]>            </name>
-            <address>298 Eastgate Plaza
-, IL 62024</address>
+            <address>
+<![CDATA[298 Eastgate Plaza
+, IL 62024]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_210">
                 <coordinates>-90.118254,38.88015,0.0</coordinates>
@@ -1951,7 +2162,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_213">
             <name>
 <![CDATA[Sunnyvale: Target]]>            </name>
-            <address>McKinley Ave & Taaffe St, CA 94086</address>
+            <address>
+<![CDATA[McKinley Ave & Taaffe St, CA 94086]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_211">
                 <coordinates>-122.0336399,37.3731131,0.0</coordinates>
@@ -1960,8 +2172,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_214">
             <name>
 <![CDATA[SANDAG: Carlsbad Poinsettia Coaster St.]]>            </name>
-            <address>6511 Avenida Encinas. Carlsbad, CA 92009
-, CA 92009</address>
+            <address>
+<![CDATA[6511 Avenida Encinas. Carlsbad, CA 92009
+, CA 92009]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_212">
                 <coordinates>-117.318823,33.109303,0.0</coordinates>
@@ -1970,7 +2183,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_215">
             <name>
 <![CDATA[SANDAG: Lemon Grove Depot]]>            </name>
-            <address>3443 Main Street , CA 91945</address>
+            <address>
+<![CDATA[3443 Main Street , CA 91945]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_213">
                 <coordinates>-117.0308397,32.7433313,0.0</coordinates>
@@ -1979,7 +2193,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_216">
             <name>
 <![CDATA[Trimet: Gateway]]>            </name>
-            <address>1321 NE 99th Ave, OR 97200</address>
+            <address>
+<![CDATA[1321 NE 99th Ave, OR 97200]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_214">
                 <coordinates>-122.5629354,45.5324063,0.0</coordinates>
@@ -1988,7 +2203,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_217">
             <name>
 <![CDATA[UTA: Salt Lake Central Station]]>            </name>
-            <address>300 South & 600 West, UT 84101</address>
+            <address>
+<![CDATA[300 South & 600 West, UT 84101]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_215">
                 <coordinates>-111.9081015,40.7628219,0.0</coordinates>
@@ -1997,7 +2213,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_218">
             <name>
 <![CDATA[SANDAG: 12th & Imperial]]>            </name>
-            <address>12th & Imperial, CA </address>
+            <address>
+<![CDATA[12th & Imperial, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_216">
                 <coordinates>-117.1530547,32.7059645,0.0</coordinates>
@@ -2006,7 +2223,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_219">
             <name>
 <![CDATA[BART: San Bruno]]>            </name>
-            <address>1151 Huntington Ave, CA 94066</address>
+            <address>
+<![CDATA[1151 Huntington Ave, CA 94066]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_217">
                 <coordinates>-122.416604,37.638199,0.0</coordinates>
@@ -2015,7 +2233,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_220">
             <name>
 <![CDATA[Folsom: Iron Point Light Rail Station]]>            </name>
-            <address>Folsom Blvd & Iron Point Rd, CA </address>
+            <address>
+<![CDATA[Folsom Blvd & Iron Point Rd, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_218">
                 <coordinates>-121.1910371,38.6443771,0.0</coordinates>
@@ -2024,7 +2243,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_221">
             <name>
 <![CDATA[Santa Cruz: Pearl Alley]]>            </name>
-            <address>Corner of Cedar and Church St., CA </address>
+            <address>
+<![CDATA[Corner of Cedar and Church St., CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_219">
                 <coordinates>-122.0275451,36.9743897,0.0</coordinates>
@@ -2033,7 +2253,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_222">
             <name>
 <![CDATA[Fremont: Ardenwood Park & Ride Lot]]>            </name>
-            <address>Route 84/Ardenwood Blvd, CA </address>
+            <address>
+<![CDATA[Route 84/Ardenwood Blvd, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_220">
                 <coordinates>-122.055144,37.552301,0.0</coordinates>
@@ -2042,7 +2263,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_223">
             <name>
 <![CDATA[Trimet: Providence Park]]>            </name>
-            <address>1800 SW Yamhill St, OR 97205</address>
+            <address>
+<![CDATA[1800 SW Yamhill St, OR 97205]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_221">
                 <coordinates>-122.6904537,45.5214265,0.0</coordinates>
@@ -2051,8 +2273,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_224">
             <name>
 <![CDATA[Santa Clara County: Elmwood]]>            </name>
-            <address>Elmwood Correctional Facility 
-701 South Abel St. , CA 95035</address>
+            <address>
+<![CDATA[Elmwood Correctional Facility 
+701 South Abel St. , CA 95035]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_222">
                 <coordinates>-121.9086601,37.4187503,0.0</coordinates>
@@ -2061,7 +2284,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_225">
             <name>
 <![CDATA[UCLA: Kinross]]>            </name>
-            <address>11000 Kinross Avenue , CA 90095</address>
+            <address>
+<![CDATA[11000 Kinross Avenue , CA 90095]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_223">
                 <coordinates>-118.447416,34.059474,0.0</coordinates>
@@ -2070,7 +2294,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_226">
             <name>
 <![CDATA[Walnut Creek: Broadway Parking Garage]]>            </name>
-            <address>1390 N Broadway, CA 94596</address>
+            <address>
+<![CDATA[1390 N Broadway, CA 94596]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_224">
                 <coordinates>-122.0597066,37.8993881,0.0</coordinates>
@@ -2079,7 +2304,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_227">
             <name>
 <![CDATA[SFMTA: Japan Center Garage]]>            </name>
-            <address>1772 Post St, CA </address>
+            <address>
+<![CDATA[1772 Post St, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_225">
                 <coordinates>-122.430877,37.785268,0.0</coordinates>
@@ -2088,7 +2314,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_228">
             <name>
 <![CDATA[San Jose: City Hall Wedges]]>            </name>
-            <address>200 East Santa Clara St., CA 95113</address>
+            <address>
+<![CDATA[200 East Santa Clara St., CA 95113]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_226">
                 <coordinates>-121.885711,37.337412,0.0</coordinates>
@@ -2097,7 +2324,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_229">
             <name>
 <![CDATA[BART: MacArthur ]]>            </name>
-            <address>555 40th Street, CA 94609</address>
+            <address>
+<![CDATA[555 40th Street, CA 94609]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_227">
                 <coordinates>-122.265589,37.829254,0.0</coordinates>
@@ -2106,7 +2334,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_230">
             <name>
 <![CDATA[SFMTA: Sutter Stockton Garage]]>            </name>
-            <address>444 Stockton St, CA 94102</address>
+            <address>
+<![CDATA[444 Stockton St, CA 94102]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_228">
                 <coordinates>-122.4068379,37.7898844,0.0</coordinates>
@@ -2115,7 +2344,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_231">
             <name>
 <![CDATA[Campbell: Downtown LRT Station]]>            </name>
-            <address>Railway Avenue at Sam Cava Lane, CA 95008</address>
+            <address>
+<![CDATA[Railway Avenue at Sam Cava Lane, CA 95008]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_229">
                 <coordinates>-121.9429318,37.2855363,0.0</coordinates>
@@ -2124,7 +2354,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_232">
             <name>
 <![CDATA[SANDAG: Beyer Boulevard]]>            </name>
-            <address>4035 Beyer Blvd, CA 92173</address>
+            <address>
+<![CDATA[4035 Beyer Blvd, CA 92173]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_230">
                 <coordinates>-117.046423,32.558087,0.0</coordinates>
@@ -2133,7 +2364,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_233">
             <name>
 <![CDATA[BART: San Leandro ]]>            </name>
-            <address>1401 San Leandro Blvd., CA 94577</address>
+            <address>
+<![CDATA[1401 San Leandro Blvd., CA 94577]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_231">
                 <coordinates>-122.160608768,37.7215691249,0.0</coordinates>
@@ -2142,7 +2374,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_234">
             <name>
 <![CDATA[BART: Ashby ]]>            </name>
-            <address>3100 Adeline Street on level above station entrance, CA 94703</address>
+            <address>
+<![CDATA[3100 Adeline Street on level above station entrance, CA 94703]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_232">
                 <coordinates>-122.269839048,37.8531445449,0.0</coordinates>
@@ -2151,7 +2384,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_235">
             <name>
 <![CDATA[San Mateo: Hillsdale Caltrain Station]]>            </name>
-            <address>S El Camino Real & E Hillsdale Blvd, CA 94403</address>
+            <address>
+<![CDATA[S El Camino Real & E Hillsdale Blvd, CA 94403]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_233">
                 <coordinates>-122.29809,37.53788,0.0</coordinates>
@@ -2160,7 +2394,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_236">
             <name>
 <![CDATA[SFMTA: Zuckerberg SF General Locker #1]]>            </name>
-            <address>1001 Potrero Avenue, CA 94110</address>
+            <address>
+<![CDATA[1001 Potrero Avenue, CA 94110]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_234">
                 <coordinates>-122.4044432,37.7558047,0.0</coordinates>
@@ -2169,7 +2404,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_237">
             <name>
 <![CDATA[San Mateo: Hayward Park]]>            </name>
-            <address>Concar Dr & Pacific Blvd, CA 94402</address>
+            <address>
+<![CDATA[Concar Dr & Pacific Blvd, CA 94402]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_235">
                 <coordinates>-122.3090255,37.5525699,0.0</coordinates>
@@ -2178,7 +2414,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_238">
             <name>
 <![CDATA[Santa Clara County: Charcot Building]]>            </name>
-            <address>2310 North First St., CA 95131</address>
+            <address>
+<![CDATA[2310 North First St., CA 95131]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_236">
                 <coordinates>-121.922091,37.380604,0.0</coordinates>
@@ -2187,7 +2424,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_239">
             <name>
 <![CDATA[BART: Lake Merritt ]]>            </name>
-            <address>800 Madison, CA 94607</address>
+            <address>
+<![CDATA[800 Madison, CA 94607]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_237">
                 <coordinates>-122.265053988,37.7972040219,0.0</coordinates>
@@ -2196,7 +2434,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_240">
             <name>
 <![CDATA[Sonoma County: Permit Resource Mgmt]]>            </name>
-            <address>2550 Ventura Ave, CA 95403</address>
+            <address>
+<![CDATA[2550 Ventura Ave, CA 95403]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_238">
                 <coordinates>-122.723572,38.464863,0.0</coordinates>
@@ -2205,7 +2444,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_241">
             <name>
 <![CDATA[BART: West Dublin/Pleasanton ]]>            </name>
-            <address>6501 Golden Gate Drive, CA 94568</address>
+            <address>
+<![CDATA[6501 Golden Gate Drive, CA 94568]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_239">
                 <coordinates>-121.927556992,37.6988983835,0.0</coordinates>
@@ -2214,8 +2454,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_242">
             <name>
 <![CDATA[UTA: Ogden Front Runner Station]]>            </name>
-            <address>2393 Wall Ave South
-, UT 84401</address>
+            <address>
+<![CDATA[2393 Wall Ave South
+, UT 84401]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_240">
                 <coordinates>-111.980268,41.223845,0.0</coordinates>
@@ -2224,7 +2465,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_243">
             <name>
 <![CDATA[MCT: Alton Transit Station]]>            </name>
-            <address>600 Piasa St., IL 62002</address>
+            <address>
+<![CDATA[600 Piasa St., IL 62002]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_241">
                 <coordinates>-90.187052,38.894287,0.0</coordinates>
@@ -2233,8 +2475,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_244">
             <name>
 <![CDATA[Folsom: Pedal Stop]]>            </name>
-            <address>Folsom Railroad Block Parking Garage, 
-905 Leidesdorff Street, CA 95630</address>
+            <address>
+<![CDATA[Folsom Railroad Block Parking Garage, 
+905 Leidesdorff Street, CA 95630]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_242">
                 <coordinates>-121.1798228,38.6770607,0.0</coordinates>
@@ -2243,7 +2486,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_245">
             <name>
 <![CDATA[Trimet: Tualatin Park & Ride]]>            </name>
-            <address>SW 72nd Ave. & SW Bridgeport Rd, OR 97224</address>
+            <address>
+<![CDATA[SW 72nd Ave. & SW Bridgeport Rd, OR 97224]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_243">
                 <coordinates>-122.748743,45.394469,0.0</coordinates>
@@ -2252,7 +2496,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_246">
             <name>
 <![CDATA[NVTA: Yountville]]>            </name>
-            <address>Corner of Solano Avenue and California Drive, CA 94599</address>
+            <address>
+<![CDATA[Corner of Solano Avenue and California Drive, CA 94599]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_244">
                 <coordinates>-122.359858,38.3972429,0.0</coordinates>
@@ -2261,7 +2506,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_247">
             <name>
 <![CDATA[Trimet: Sunset Bike & Ride]]>            </name>
-            <address>10470 SW Barnes Road, OR 97225</address>
+            <address>
+<![CDATA[10470 SW Barnes Road, OR 97225]]>            </address>
             <styleUrl>#stylesel_1</styleUrl>
             <Point id="geom_245">
                 <coordinates>-122.7819532,45.5108071,0.0</coordinates>
@@ -2270,7 +2516,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_248">
             <name>
 <![CDATA[BART: Dublin/Pleasanton ]]>            </name>
-            <address>5801 Owens Dr., CA 94588</address>
+            <address>
+<![CDATA[5801 Owens Dr., CA 94588]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_246">
                 <coordinates>-121.898068786,37.7017294222,0.0</coordinates>
@@ -2279,7 +2526,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_249">
             <name>
 <![CDATA[Trimet: Rose Quarter TC]]>            </name>
-            <address>47 NE Holladay St, OR 97232</address>
+            <address>
+<![CDATA[47 NE Holladay St, OR 97232]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_247">
                 <coordinates>-122.666061,45.530591,0.0</coordinates>
@@ -2288,7 +2536,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_250">
             <name>
 <![CDATA[SANDAG: Grossmont ]]>            </name>
-            <address>8491 Fletcher Parkway, CA 91942</address>
+            <address>
+<![CDATA[8491 Fletcher Parkway, CA 91942]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_248">
                 <coordinates>-117.011346817,32.7818445669,0.0</coordinates>
@@ -2297,7 +2546,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_251">
             <name>
 <![CDATA[WETA: Alameda Main St. Ferry Terminal]]>            </name>
-            <address>2990 Main Street, CA 94501</address>
+            <address>
+<![CDATA[2990 Main Street, CA 94501]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_249">
                 <coordinates>-122.293825,37.790668,0.0</coordinates>
@@ -2306,7 +2556,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_252">
             <name>
 <![CDATA[Alameda Landing: Habit Burger]]>            </name>
-            <address>2610 Fifth Street, CA 94501</address>
+            <address>
+<![CDATA[2610 Fifth Street, CA 94501]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_250">
                 <coordinates>-122.279849,37.78686,0.0</coordinates>
@@ -2315,8 +2566,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_253">
             <name>
 <![CDATA[MCT: LeClaire Junction Park & Ride West]]>            </name>
-            <address>Troy Rd. & Longfellow Ave.
-, IL 62025</address>
+            <address>
+<![CDATA[Troy Rd. & Longfellow Ave.
+, IL 62025]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_251">
                 <coordinates>-89.951613,38.804525,0.0</coordinates>
@@ -2325,7 +2577,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_254">
             <name>
 <![CDATA[Trimet: Fair Complex]]>            </name>
-            <address>601 NE 34th Ave, OR 97124</address>
+            <address>
+<![CDATA[601 NE 34th Ave, OR 97124]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_252">
                 <coordinates>-122.946869,45.526946,0.0</coordinates>
@@ -2334,7 +2587,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_255">
             <name>
 <![CDATA[Trimet: Hawthorn Farm]]>            </name>
-            <address>NW Elam Young Pkwy and NE Belknap Ct, OR 97124</address>
+            <address>
+<![CDATA[NW Elam Young Pkwy and NE Belknap Ct, OR 97124]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_253">
                 <coordinates>-122.9317155,45.5307555,0.0</coordinates>
@@ -2343,7 +2597,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_256">
             <name>
 <![CDATA[BART: Antioch Entry House]]>            </name>
-            <address>2520 Antioch Drive, CA 94509</address>
+            <address>
+<![CDATA[2520 Antioch Drive, CA 94509]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_254">
                 <coordinates>-121.7515615,38.016982,0.0</coordinates>
@@ -2352,7 +2607,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_257">
             <name>
 <![CDATA[King Co: South Renton]]>            </name>
-            <address>Shattuck Ave S & Lake Ave S, Renton, WA, WA </address>
+            <address>
+<![CDATA[Shattuck Ave S & Lake Ave S, Renton, WA, WA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_255">
                 <coordinates>-122.212671,47.4725279,0.0</coordinates>
@@ -2361,7 +2617,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_258">
             <name>
 <![CDATA[SRJC: Bailey Field]]>            </name>
-            <address>1501 Mendocino Ave, CA </address>
+            <address>
+<![CDATA[1501 Mendocino Ave, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_256">
                 <coordinates>-122.718484,38.454595,0.0</coordinates>
@@ -2370,7 +2627,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_259">
             <name>
 <![CDATA[SANDAG: Bayfront/E St]]>            </name>
-            <address>750 E Street, CA </address>
+            <address>
+<![CDATA[750 E Street, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_257">
                 <coordinates>-117.0988704,32.639795,0.0</coordinates>
@@ -2379,7 +2637,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_260">
             <name>
 <![CDATA[Alameda: Civic Center Garage]]>            </name>
-            <address>1442 Oak St., CA 94501</address>
+            <address>
+<![CDATA[1442 Oak St., CA 94501]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_258">
                 <coordinates>-122.243467569,37.7652062514,0.0</coordinates>
@@ -2388,7 +2647,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_261">
             <name>
 <![CDATA[UTA: UU Stadium TRAX Station]]>            </name>
-            <address>450 South University Street, UT </address>
+            <address>
+<![CDATA[450 South University Street, UT ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_259">
                 <coordinates>-111.852875,40.7593674,0.0</coordinates>
@@ -2397,7 +2657,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_262">
             <name>
 <![CDATA[MCT: Gateway Convention Center]]>            </name>
-            <address>60 Gateway Dr., IL 62234</address>
+            <address>
+<![CDATA[60 Gateway Dr., IL 62234]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_260">
                 <coordinates>-90.018663,38.681844,0.0</coordinates>
@@ -2406,7 +2667,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_263">
             <name>
 <![CDATA[UCLA: Powell Library ]]>            </name>
-            <address>10740 Dickson Plaza , CA 90095</address>
+            <address>
+<![CDATA[10740 Dickson Plaza , CA 90095]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_261">
                 <coordinates>-118.441939,34.071495,0.0</coordinates>
@@ -2415,7 +2677,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_264">
             <name>
 <![CDATA[Richmond: Intermodal Station]]>            </name>
-            <address>1700 Nevin St, CA 94801</address>
+            <address>
+<![CDATA[1700 Nevin St, CA 94801]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_262">
                 <coordinates>-122.354079187,37.9368509855,0.0</coordinates>
@@ -2424,7 +2687,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_265">
             <name>
 <![CDATA[BART: El Cerrito Del Norte ]]>            </name>
-            <address>6400 Cutting Blvd, CA 94530</address>
+            <address>
+<![CDATA[6400 Cutting Blvd, CA 94530]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_263">
                 <coordinates>-122.317040563,37.9253802384,0.0</coordinates>
@@ -2433,7 +2697,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_266">
             <name>
 <![CDATA[VTA: Penitencia Creek Station]]>            </name>
-            <address>Penitencia Creek Road & N Capitol Avenue, CA </address>
+            <address>
+<![CDATA[Penitencia Creek Road & N Capitol Avenue, CA ]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_264">
                 <coordinates>-121.854392,37.382692,0.0</coordinates>
@@ -2442,7 +2707,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_267">
             <name>
 <![CDATA[VTA: Cottle Station]]>            </name>
-            <address>Cottle Rd and Highway 85, CA 95123</address>
+            <address>
+<![CDATA[Cottle Rd and Highway 85, CA 95123]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_265">
                 <coordinates>-121.803611,37.242283,0.0</coordinates>
@@ -2451,7 +2717,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_268">
             <name>
 <![CDATA[SANDAG: Palm Avenue]]>            </name>
-            <address>2340 Palm Ave, CA 92154</address>
+            <address>
+<![CDATA[2340 Palm Ave, CA 92154]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_266">
                 <coordinates>-117.083617,32.584066,0.0</coordinates>
@@ -2460,7 +2727,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_269">
             <name>
 <![CDATA[Cap. Cor.: Suisun City train station]]>            </name>
-            <address>177 Main Street, CA 94585</address>
+            <address>
+<![CDATA[177 Main Street, CA 94585]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_267">
                 <coordinates>-122.041213,38.243498,0.0</coordinates>
@@ -2469,8 +2737,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_270">
             <name>
 <![CDATA[BART: Fruitvale ]]>            </name>
-            <address>3401 E. 12th Street
-, CA 94601</address>
+            <address>
+<![CDATA[3401 E. 12th Street
+, CA 94601]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_268">
                 <coordinates>-122.225818634,37.7757182433,0.0</coordinates>
@@ -2479,7 +2748,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_271">
             <name>
 <![CDATA[VTA: Eastridge Transit Center]]>            </name>
-            <address>2200 Eastridge Loop, CA 95131</address>
+            <address>
+<![CDATA[2200 Eastridge Loop, CA 95131]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_269">
                 <coordinates>-121.8133811,37.3255349,0.0</coordinates>
@@ -2488,7 +2758,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_272">
             <name>
 <![CDATA[King Co: Issaquah Highlands Park & Ride]]>            </name>
-            <address>1755 Highlands Drive NE, WA 98029</address>
+            <address>
+<![CDATA[1755 Highlands Drive NE, WA 98029]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_270">
                 <coordinates>-122.019932,47.544688,0.0</coordinates>
@@ -2497,7 +2768,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_273">
             <name>
 <![CDATA[MCT: Collinsville Transit Station]]>            </name>
-            <address>100 N. Clinton St., IL 62234</address>
+            <address>
+<![CDATA[100 N. Clinton St., IL 62234]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_271">
                 <coordinates>-89.987558,38.670554,0.0</coordinates>
@@ -2506,7 +2778,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_274">
             <name>
 <![CDATA[BART: West Oakland ]]>            </name>
-            <address>1451 7th Street, CA 94607</address>
+            <address>
+<![CDATA[1451 7th Street, CA 94607]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_272">
                 <coordinates>-122.294896245,37.8048548081,0.0</coordinates>
@@ -2515,7 +2788,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_275">
             <name>
 <![CDATA[SANDAG: H Street]]>            </name>
-            <address>745 H Street, CA 91910</address>
+            <address>
+<![CDATA[745 H Street, CA 91910]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_273">
                 <coordinates>-117.094228,32.630147,0.0</coordinates>
@@ -2524,9 +2798,10 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_276">
             <name>
 <![CDATA[MCT: Wood River Transit Station]]>            </name>
-            <address>60 W. Ferguson
+            <address>
+<![CDATA[60 W. Ferguson
 
-, IL 62095</address>
+, IL 62095]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_274">
                 <coordinates>-90.099731,38.860829,0.0</coordinates>
@@ -2535,7 +2810,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_277">
             <name>
 <![CDATA[UCLA: Parking Structure 7]]>            </name>
-            <address>336 Charles E. Young Drive, North, CA 90095</address>
+            <address>
+<![CDATA[336 Charles E. Young Drive, North, CA 90095]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_275">
                 <coordinates>-118.446871,34.072043,0.0</coordinates>
@@ -2544,7 +2820,8 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_278">
             <name>
 <![CDATA[Trimet: Cascades]]>            </name>
-            <address>10213 NE Cascades Pkwy, OR 97220</address>
+            <address>
+<![CDATA[10213 NE Cascades Pkwy, OR 97220]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_276">
                 <coordinates>-122.5571828,45.5726574,0.0</coordinates>
@@ -2553,8 +2830,9 @@ McAllister Way, CA 95060</address>
         <Placemark id="feat_279">
             <name>
 <![CDATA[UCSC: Porter College Courtyard]]>            </name>
-            <address>Porter Courtyard
-Porter-Kresge Road, UCSC, CA 95064</address>
+            <address>
+<![CDATA[Porter Courtyard
+Porter-Kresge Road, UCSC, CA 95064]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_277">
                 <coordinates>-122.065457,36.994303,0.0</coordinates>
@@ -2563,7 +2841,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_280">
             <name>
 <![CDATA[King Co: Eastgate Park and Ride]]>            </name>
-            <address>14243 Southeast Eastgate Way, WA 98005</address>
+            <address>
+<![CDATA[14243 Southeast Eastgate Way, WA 98005]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_278">
                 <coordinates>-122.1507801,47.5799095,0.0</coordinates>
@@ -2572,7 +2851,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_281">
             <name>
 <![CDATA[Berkeley: Amtrak Station]]>            </name>
-            <address>University Ave & 3rd St., CA 94710</address>
+            <address>
+<![CDATA[University Ave & 3rd St., CA 94710]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_279">
                 <coordinates>-122.30064,37.867376,0.0</coordinates>
@@ -2581,7 +2861,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_282">
             <name>
 <![CDATA[BART: North Berkeley ]]>            </name>
-            <address>1750 Sacramento St., CA 94701</address>
+            <address>
+<![CDATA[1750 Sacramento St., CA 94701]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_280">
                 <coordinates>-122.2824352,37.8736684,0.0</coordinates>
@@ -2590,7 +2871,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_283">
             <name>
 <![CDATA[EAH: Buchanan Park Apts]]>            </name>
-            <address>1150 Webster Street, CA 94115</address>
+            <address>
+<![CDATA[1150 Webster Street, CA 94115]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_281">
                 <coordinates>-122.4304084,37.781212,0.0</coordinates>
@@ -2599,7 +2881,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_284">
             <name>
 <![CDATA[Lawson Lane: Building A]]>            </name>
-            <address>2215 Lawson Lane Building A, CA 95054</address>
+            <address>
+<![CDATA[2215 Lawson Lane Building A, CA 95054]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_282">
                 <coordinates>-121.963053,37.375828,0.0</coordinates>
@@ -2608,7 +2891,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_285">
             <name>
 <![CDATA[GC: Costa Verde Village South]]>            </name>
-            <address>Regents Rd at Las Palmas, CA 92122</address>
+            <address>
+<![CDATA[Regents Rd at Las Palmas, CA 92122]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_283">
                 <coordinates>-117.218173,32.869392,0.0</coordinates>
@@ -2617,7 +2901,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_286">
             <name>
 <![CDATA[San Jose: Tully Community Library]]>            </name>
-            <address>880 Tully Rd, CA 95111</address>
+            <address>
+<![CDATA[880 Tully Rd, CA 95111]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_284">
                 <coordinates>-121.8407493,37.3114954,0.0</coordinates>
@@ -2626,7 +2911,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_287">
             <name>
 <![CDATA[Oakland: 12th St./ Frank Ogawa Plaza]]>            </name>
-            <address>14th St & Broadway, CA 94612</address>
+            <address>
+<![CDATA[14th St & Broadway, CA 94612]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_285">
                 <coordinates>-122.271378636,37.8045782492,0.0</coordinates>
@@ -2635,7 +2921,8 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_288">
             <name>
 <![CDATA[Vancouver: Columbia & W Evergreen]]>            </name>
-            <address>221 West Evergreen, WA 98660</address>
+            <address>
+<![CDATA[221 West Evergreen, WA 98660]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_286">
                 <coordinates>-122.673715353,45.6286471491,0.0</coordinates>
@@ -2644,8 +2931,9 @@ Porter-Kresge Road, UCSC, CA 95064</address>
         <Placemark id="feat_289">
             <name>
 <![CDATA[MCT: Glen Carbon Walmart Park and Ride]]>            </name>
-            <address>400 Junction Dr.
-, IL 62034</address>
+            <address>
+<![CDATA[400 Junction Dr.
+, IL 62034]]>            </address>
             <styleUrl>#stylesel_0</styleUrl>
             <Point id="geom_287">
                 <coordinates>-89.952953,38.776421,0.0</coordinates>

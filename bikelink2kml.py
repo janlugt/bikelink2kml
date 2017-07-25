@@ -17,11 +17,13 @@ for str in location_strings:
     .replace(':true,', ':True,')
   locations.append(ast.literal_eval(dict))
 
-kml = simplekml.Kml()
 elocker_style = simplekml.Style()
 elocker_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/lockers-c9deb0ef775179becfff02261c117aa4.png'
 group_style = simplekml.Style()
 group_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/group-5637fbe44207d3fe6b92d82bc39a24bc.png'
+
+kml = simplekml.Kml()
+# TODO: add map description
 
 for loc in locations:
   # Ignore vendor locations
@@ -31,11 +33,12 @@ for loc in locations:
 
   pnt = kml.newpoint(name='<![CDATA[%s]]>' % loc['human_name'])
   pnt.coords = [(loc['longitude'], loc['latitude'])]
-  pnt.address = '%s, %s %s' % (loc['street_address'], loc['state_abbreviation'], loc['postal_code'])
+  pnt.address = '<![CDATA[%s, %s %s]]>' % (loc['street_address'], loc['state_abbreviation'], loc['postal_code'])
   if loc_type == 'eLocker':
     pnt.style = elocker_style
   elif loc_type == 'Group Parking':
     pnt.style = group_style
+  # TODO: add a useful description
 
 kml.save('bikelink.kml')
 
