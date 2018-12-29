@@ -16,6 +16,7 @@ for str in location_strings:
     .replace(':false,', ':False,') \
     .replace(':true,', ':True,')
   locations.append(ast.literal_eval(dict))
+locations.sort(key=lambda x: x['human_name'].strip())
 
 elocker_style = simplekml.Style()
 elocker_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/lockers-c9deb0ef775179becfff02261c117aa4.png'
@@ -23,7 +24,6 @@ group_style = simplekml.Style()
 group_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/group-5637fbe44207d3fe6b92d82bc39a24bc.png'
 
 kml = simplekml.Kml(name = 'BikeLink locations')
-locations.sort(key=lambda x: x['human_name'].strip())
 
 for loc in locations:
   # Ignore vendor locations
