@@ -23,6 +23,7 @@ group_style = simplekml.Style()
 group_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/group-5637fbe44207d3fe6b92d82bc39a24bc.png'
 
 kml = simplekml.Kml(name = 'BikeLink locations')
+locations.sort(key=lambda x: x['human_name'])
 
 for loc in locations:
   # Ignore vendor locations
