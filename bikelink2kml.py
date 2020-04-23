@@ -1,21 +1,22 @@
 import ast
+from bs4 import BeautifulSoup
 import fileinput
+import json
 import re
 import simplekml
-import urllib2
+import urllib.request
 
-response = urllib2.urlopen('https://www.bikelink.org/map')
-html = response.read()
-lines = html.splitlines()
-location_strings = filter(lambda x:'bl_map.add_location' in x, lines)
-locations = []
-for str in location_strings:
-  dict_search = re.search('bl_map.add_location\((.*)\);', str, re.IGNORECASE)
-  dict = dict_search.group(1) \
-    .replace(':null,', ':None,') \
-    .replace(':false,', ':False,') \
-    .replace(':true,', ':True,')
-  locations.append(ast.literal_eval(dict))
+response = urllib.request.urlopen('https://www.bikelink.org/maps')
+html_doc = str(response.read())
+bs = BeautifulSoup(html_doc, features="lxml")
+locations_text = [item["data-locations"] for item in bs.find_all() if "data-locations" in item.attrs][0]
+locations = json.loads(locations_text)
+
+#  dict = dict_search.group(1) \
+#    .replace(':null,', ':None,') \
+#    .replace(':false,', ':False,') \
+#    .replace(':true,', ':True,')
+#  locations.append(ast.literal_eval(dict))
 locations.sort(key=lambda x: x['human_name'].strip())
 
 elocker_style = simplekml.Style()
@@ -33,11 +34,11 @@ for loc in locations:
 
   pnt = kml.newpoint(name='<![CDATA[%s]]>' % loc['human_name'].strip())
   pnt.coords = [(loc['longitude'], loc['latitude'])]
-  pnt.address = '<![CDATA[%s, %s %s]]>' % (loc['street_address'], loc['state_abbreviation'], loc['postal_code'])
+  pnt.address = '<![CDATA[%s]]>' % (loc['street_address'])
   if loc_type == 'eLocker':
-    pnt.style = elocker_style
+    pnt.style.labelstyle.color = simplekml.Color.blue
   elif loc_type == 'Group Parking':
-    pnt.style = group_style
+    pnt.style.labelstyle.color = simplekml.Color.yellow
   # TODO: add a useful description
 
 kml.save('bikelink.kml')
