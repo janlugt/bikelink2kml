@@ -11,18 +11,12 @@ html_doc = str(response.read())
 bs = BeautifulSoup(html_doc, features="lxml")
 locations_text = [item["data-locations"] for item in bs.find_all() if "data-locations" in item.attrs][0]
 locations = json.loads(locations_text)
-
-#  dict = dict_search.group(1) \
-#    .replace(':null,', ':None,') \
-#    .replace(':false,', ':False,') \
-#    .replace(':true,', ':True,')
-#  locations.append(ast.literal_eval(dict))
 locations.sort(key=lambda x: x['human_name'].strip())
 
 elocker_style = simplekml.Style()
-elocker_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/lockers-c9deb0ef775179becfff02261c117aa4.png'
+elocker_style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/paddle/blu-circle.png'
 group_style = simplekml.Style()
-group_style.iconstyle.icon.href = 'https://www.bikelink.org/assets/group-5637fbe44207d3fe6b92d82bc39a24bc.png'
+group_style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png'
 
 kml = simplekml.Kml(name = 'BikeLink locations')
 
@@ -36,9 +30,9 @@ for loc in locations:
   pnt.coords = [(loc['longitude'], loc['latitude'])]
   pnt.address = '<![CDATA[%s]]>' % (loc['street_address'])
   if loc_type == 'eLocker':
-    pnt.style.labelstyle.color = simplekml.Color.blue
+    pnt.style = elocker_style
   elif loc_type == 'Group Parking':
-    pnt.style.labelstyle.color = simplekml.Color.yellow
+    pnt.style = group_style
   # TODO: add a useful description
 
 kml.save('bikelink.kml')
