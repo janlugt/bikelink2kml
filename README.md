@@ -2,4 +2,6 @@
 Parses bikelink.org/map and outputs KML, for your convenience.
 
 ## Requirements
-* simplekml (tested with 1.3.0)
+* bs4 (tested with 4.9.3)
+* lxml (tested with 4.6.3)
+* simplekml (tested with 1.3.5)
